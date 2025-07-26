@@ -21,11 +21,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jiaxin Wang"
+  name             : "Jiaxin Wang (王佳鑫)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Nanjing University"
   location         : "Nanjing, China"
-  supervisor       : Jiaqi Yan
+  supervisor       : "Jiaqi Yan"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Vm54jdoAAAAJ"
   email            : "mf21140113@smail.nju.edu.cn"
