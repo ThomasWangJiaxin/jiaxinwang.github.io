@@ -40,13 +40,13 @@ My research interest includes neural machine translation and computer vision.
 
 **Keywords**: Crypto gambling, anonymity, security, delegatees, role identification, graph neural networks, structural entropy
 
-**Citations**: <span class='show_paper_citations' data='Vm54jdoAAAAJ:IWHjjKOFINEC'></span>
+<!-- **Citations**: <span class='show_paper_citations' data='Vm54jdoAAAAJ:IWHjjKOFINEC'></span> -->
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Behind the scenes in metaverses: exploring undercover role cooperations with cryptocurrency transactions through an intellectual capital lens], Jiaxin Wang, Qian'ang Mao, Jiaqi Yan, **Journal of Intellectual Capital**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
