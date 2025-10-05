@@ -46,7 +46,9 @@ My research interest includes neural machine translation and computer vision.
 </div>
 </div>
 
-- [Behind the scenes in metaverses: exploring undercover role cooperations with cryptocurrency transactions through an intellectual capital lens], Jiaxin Wang, Qian'ang Mao, Jiaqi Yan, **Journal of Intellectual Capital**
+- [Behind the scenes in metaverses: exploring undercover role cooperations with cryptocurrency transactions through an intellectual capital lens](https://www.emerald.com/jic/article-abstract/doi/10.1108/JIC-03-2025-0068/1301129/Behind-the-scenes-in-metaverses-exploring?redirectedFrom=fulltext), **Jiaxin Wang**, Qian'ang Mao, Jiaqi Yan, **Journal of Intellectual Capital**
+
+- [Architectural Patterns for Blockchain-enabled Federated Learning], **Jiaxin Wang**, Dongying Shi, Shanshan Li, Jiaqi Yan, et al. **Under the 2nd Review of Journal of Systems and Software**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
