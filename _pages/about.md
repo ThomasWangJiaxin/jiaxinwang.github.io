@@ -58,11 +58,14 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 </div>
 </div>
 
-- [Behind the scenes in metaverses: exploring undercover role cooperations with cryptocurrency transactions through an intellectual capital lens](https://www.emerald.com/jic/article-abstract/doi/10.1108/JIC-03-2025-0068/1301129/Behind-the-scenes-in-metaverses-exploring?redirectedFrom=fulltext), **Jiaxin Wang**, Qian'ang Mao, Jiaqi Yan, **Journal of Intellectual Capital (JCR Q1, ABS 2, ABDC B)**
+- [Behind the scenes in metaverses: exploring undercover role cooperations with cryptocurrency transactions through an intellectual capital lens](https://www.emerald.com/jic/article-abstract/doi/10.1108/JIC-03-2025-0068/1301129/Behind-the-scenes-in-metaverses-exploring?redirectedFrom=fulltext)[J]. **Jiaxin Wang**, Qian'ang Mao, Jiaqi Yan. **Journal of Intellectual Capital (JCR Q1, ABS 2, ABDC B)**
 
-- Architectural Patterns for Blockchain-enabled Federated Learning, **Jiaxin Wang**, Dongying Shi, Shanshan Li, Jiaqi Yan, et al. **Under the 2nd Review of Journal of Systems and Software (JCR Q1, CCF-B)**
+- [Smoke and mirrors: Uncovering hidden delegatees within crypto gambling ecosystems](https://scholarspace.manoa.hawaii.edu/items/f01d09b1-10f5-4e4f-b72c-431709ab9320)[C]. **Jiaxin Wang**, Qian'ang Mao, Hongliang Sun, Jiaqi Yan, Yani Shi. **Proceedings of the 58th Hawaii International Conference on System Sciences (HICSS-58, Best Paper Nomination)**
 
-- [Smoke and mirrors: Uncovering hidden delegatees within crypto gambling ecosystems](), 
+- [融合多维学术特征的引文推荐：一种基于异质图卷积网络的方法](https://www.xdqb.net/CN/10.3969/j.issn.1008-0821.2025.07.003)[J]. 柳亚，毛谦昂，朱莉，**王佳鑫**等. 现代情报 (CSSCI),2025,45(7):26-35
+
+- [Unravelling Stablecoin-Favored Ecosystem: Extracting, Exploring On-Chain Data from TRON Blockchain](https://doi.org/10.1007/978-981-97-9412-6_21)[C], Qian’ang Mao, **Jiaxin Wang**, Zhiqi Feng, Jiaqi Yan. **Blockchain and Web3.0 Technology Innovation and Application (BWTAC 2024)**. Communications in Computer and Information Science, vol 2277. Springer, Singapore.
+
 
 
 # 📝 Working Papers 
