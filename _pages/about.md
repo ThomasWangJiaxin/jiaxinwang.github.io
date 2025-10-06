@@ -36,7 +36,7 @@ My research interest includes neural machine translation and computer vision.
 
 **Jiaxin Wang**, Qian'ang Mao, Hongliang Sun, Jiaqi Yan
 
-[Oral] [code](https://github.com/njublockchain/crypto-casino-delegatee-mining)
+[The Web Conference'25(WWW'25) Oral Presentation] [code](https://github.com/njublockchain/crypto-casino-delegatee-mining)
 
 **Keywords**: Crypto gambling, anonymity, security, delegatees, role identification, graph neural networks, structural entropy
 
