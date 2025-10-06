@@ -66,9 +66,9 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 
 - [Unravelling Stablecoin-Favored Ecosystem: Extracting, Exploring On-Chain Data from TRON Blockchain](https://doi.org/10.1007/978-981-97-9412-6_21)[C]. Qian’ang Mao, **Jiaxin Wang**, Zhiqi Feng, Jiaqi Yan. **Blockchain and Web3.0 Technology Innovation and Application (BWTAC 2024)**. Communications in Computer and Information Science, vol 2277. Springer, Singapore.
 
-- Smoke and mirrors: Uncovering hidden delegatees within crypto gambling ecosystems[C]. **Jiaxin Wang**, Qian'ang Mao, Hongliang Sun, Jiaqi Yan. **The 9th International Conference on Smart Finance (ICSF2024, Best Paper in NFT & Blockchain Track)**
+- Smoke and mirrors: Uncovering hidden delegatees within crypto gambling ecosystems[C]. **Jiaxin Wang**, Qian'ang Mao, Hongliang Sun, Jiaqi Yan. **[The 9th International Conference on Smart Finance](https://cbit.cuhk.edu.cn/ICSF/ICSF24/index.html) (ICSF2024, Best Paper in NFT & Blockchain Track)**
 
-- Demystifying Underground Crypto Financing in International Conflicts: Identification of Key Roles and Transactions with Graph Neural Networks[C]. Qian'ang Mao, **Jiaxin Wang**, Jiaqi Yan et al. **The 9th International Conference on Smart Finance (ICSF2024, Best Paper in Fintech & Stock Market Track)**
+- Demystifying Underground Crypto Financing in International Conflicts: Identification of Key Roles and Transactions with Graph Neural Networks[C]. Qian'ang Mao, **Jiaxin Wang**, Jiaqi Yan et al. **[The 9th International Conference on Smart Finance](https://cbit.cuhk.edu.cn/ICSF/ICSF24/index.html) (ICSF2024, Best Paper in Fintech & Stock Market Track)**
 
 - [区块链游戏生态的角色动态识别与演化分析——以Axie Infinity为](https://www.jas.shu.edu.cn/CN/10.3969/j.issn.0255-8297.2024.04.007)[J]. 刘凯,**王佳鑫**,毛谦昂等. **应用科学学报(CSCD)**,2024,42(04):642-658.
 
