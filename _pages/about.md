@@ -66,9 +66,13 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 
 - [区块链混币监管技术研究综述](https://kns.cnki.net/kcms2/article/abstract?v=of4N6dfUJfzd90cU1oUf-tl3CFyYdpwYulxuZft74gh2ISm4ANrDCX9chrGBsKmrih_RgM-OJZ9qJblsvnHrALMkM5TIzbq4eCspgyGDVqqTNNsus_WVszNy-7nKEIo7AWvDdBgaDadvRQ1bNBoizQ84wUZK2oaNftDc4eWj02N4ng54FakSDw==&uniplatform=NZKPT&language=CHS)[J]. **王佳鑫**,毛谦昂,颜嘉麒等. **计算机工程(CSCD)**,2025,1-19
 
-- [Targeting the Achilles’ Heel: A GNN Framework for Dismantling Cryptocurrency War-Financing Networks](https://aisel.aisnet.org/icis2024/blockchain/blockchain/6/)[C]. Qian'ang Mao, **Jiaxin Wang**, Jiaqi Yan et al. **International Conference on Information Systems(ICIS 2024, Best Paper Nomination, Best Paper in Track)**.
+- [Targeting the Achilles’ Heel: A GNN Framework for Dismantling Cryptocurrency War-Financing Networks](https://aisel.aisnet.org/icis2024/blockchain/blockchain/6/)[C]. Qian'ang Mao, **Jiaxin Wang**, Jiaqi Yan et al. **International Conference on Information Systems(ICIS 2024, Best Paper Nomination & Best Paper in Track)**.
 
 - [Unravelling Stablecoin-Favored Ecosystem: Extracting, Exploring On-Chain Data from TRON Blockchain](https://doi.org/10.1007/978-981-97-9412-6_21)[C]. Qian’ang Mao, **Jiaxin Wang**, Zhiqi Feng, Jiaqi Yan. **Blockchain and Web3.0 Technology Innovation and Application (BWTAC 2024)**. Communications in Computer and Information Science, vol 2277. Springer, Singapore.
+
+- Smoke and mirrors: Uncovering hidden delegatees within crypto gambling ecosystems(C). **Jiaxin Wang**, Qian'ang Mao, Hongliang Sun, Jiaqi Yan. **The 9th International Conference on Smart Finance (ICSF2024, Best Paper in NFT & Blockchain Track)**
+
+- Demystifying Underground Crypto Financing in International Conflicts: Identification of Key Roles and Transactions with Graph Neural Networks. Qian'ang Mao, **Jiaxin Wang**, Jiaqi Yan et al. **The 9th International Conference on Smart Finance (ICSF2024, Best Paper in Fintech & Stock Market Track)**
 
 - [区块链游戏生态的角色动态识别与演化分析——以Axie Infinity为](https://www.jas.shu.edu.cn/CN/10.3969/j.issn.0255-8297.2024.04.007)[J]. 刘凯,**王佳鑫**,毛谦昂等. **应用科学学报(CSCD)**,2024,42(04):642-658.
 
@@ -78,24 +82,24 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 
 - [加密数字货币恐怖融资监管：交易模式分析与异常实体识别](https://dik.whu.edu.cn/jwk3/tsqbzs/CN/10.13366/j.dik.2022.06.055)[J]. 颜嘉麒,王佳鑫*,毛谦昂等. **图书情报知识(CSSCI,社科基金资助期刊)**,2022,39(6):55-66
 
-- Detecting and Characterizing Abnormal Addresses in the Bitcoin Transaction System: A Social Network Approach. **Jiaxin Wang**, Jiaqi Yan, Qian'ang Mao. **15th China Summer Workshop on Information Management(CSWIM 2022)**, Ningbo, China, 145-150.
+- Detecting and Characterizing Abnormal Addresses in the Bitcoin Transaction System: A Social Network Approach. **Jiaxin Wang**, Jiaqi Yan, Qian'ang Mao. **15th China Summer Workshop on Information Management (CSWIM 2022)**, Ningbo, China, 145-150.
 
 - [Research on UAV Image Recognition Based on Convolutional Neural Network](https://doi.org/10.1109/ICAICA50127.2020.9182686)[C]. Junfei Chen, Kunyi Lu, **Jiaxin Wang**. **2020 IEEE International Conference on Artificial Intelligence and Computer Applications (ICAICA)**, Dalian, China, 2020, pp. 819-823
 
 
 # 📝 Working Papers 
 
-- Architectural Patterns for Blockchain-enabled Federated Learning, **Jiaxin Wang**, Dongying Shi, Shanshan Li, Jiaqi Yan, et al. **Under the 2nd Review of Journal of Systems and Software (JCR Q1, CCF-B)**
+- Architectural Patterns for Blockchain-enabled Federated Learning. **Jiaxin Wang**, Dongying Shi, Shanshan Li, Jiaqi Yan, et al. **Under the 2nd Review of Journal of Systems and Software (JCR Q1, CCF-B)**
 
-- AI for Web3 Business Ecosystems: A Systematic Literature Review, Li Zhu, **Jiaxin Wang***, Ya Liu, Qian'ang Mao, Jiaqi Yan. **Under the 1st Review of Journal of Technolgy Transfer (JCR Q2, ABS 3, ABDC B)**
+- AI for Web3 Business Ecosystems: A Systematic Literature Review. Li Zhu, **Jiaxin Wang***, Ya Liu, Qian'ang Mao, Jiaqi Yan. **Under the 1st Review of Journal of Technolgy Transfer (JCR Q2, ABS 3, ABDC B)**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
+# 💬 Patents
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2021.03 - 2021.05*, **Product Manager Intern**, **ByteDance Infrastructure - Cloud Native - Observability Team**, China.
