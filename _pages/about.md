@@ -66,9 +66,9 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 
 - [Unravelling Stablecoin-Favored Ecosystem: Extracting, Exploring On-Chain Data from TRON Blockchain](https://doi.org/10.1007/978-981-97-9412-6_21)[C]. Qian’ang Mao, **Jiaxin Wang**, Zhiqi Feng, Jiaqi Yan. **Blockchain and Web3.0 Technology Innovation and Application (BWTAC 2024)**. Communications in Computer and Information Science, vol 2277. Springer, Singapore.
 
-- Smoke and mirrors: Uncovering hidden delegatees within crypto gambling ecosystems(C). **Jiaxin Wang**, Qian'ang Mao, Hongliang Sun, Jiaqi Yan. **The 9th International Conference on Smart Finance (ICSF2024, Best Paper in NFT & Blockchain Track)**
+- Smoke and mirrors: Uncovering hidden delegatees within crypto gambling ecosystems[C]. **Jiaxin Wang**, Qian'ang Mao, Hongliang Sun, Jiaqi Yan. **The 9th International Conference on Smart Finance (ICSF2024, Best Paper in NFT & Blockchain Track)**
 
-- Demystifying Underground Crypto Financing in International Conflicts: Identification of Key Roles and Transactions with Graph Neural Networks. Qian'ang Mao, **Jiaxin Wang**, Jiaqi Yan et al. **The 9th International Conference on Smart Finance (ICSF2024, Best Paper in Fintech & Stock Market Track)**
+- Demystifying Underground Crypto Financing in International Conflicts: Identification of Key Roles and Transactions with Graph Neural Networks[C]. Qian'ang Mao, **Jiaxin Wang**, Jiaqi Yan et al. **The 9th International Conference on Smart Finance (ICSF2024, Best Paper in Fintech & Stock Market Track)**
 
 - [区块链游戏生态的角色动态识别与演化分析——以Axie Infinity为](https://www.jas.shu.edu.cn/CN/10.3969/j.issn.0255-8297.2024.04.007)[J]. 刘凯,**王佳鑫**,毛谦昂等. **应用科学学报(CSCD)**,2024,42(04):642-658.
 
@@ -78,7 +78,7 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 
 - [加密数字货币恐怖融资监管：交易模式分析与异常实体识别](https://dik.whu.edu.cn/jwk3/tsqbzs/CN/10.13366/j.dik.2022.06.055)[J]. 颜嘉麒,王佳鑫*,毛谦昂等. **图书情报知识(CSSCI,社科基金资助期刊)**,2022,39(6):55-66
 
-- Detecting and Characterizing Abnormal Addresses in the Bitcoin Transaction System: A Social Network Approach. **Jiaxin Wang**, Jiaqi Yan, Qian'ang Mao. **15th China Summer Workshop on Information Management (CSWIM 2022)**, Ningbo, China, 145-150.
+- [Detecting and Characterizing Abnormal Addresses in the Bitcoin Transaction System: A Social Network Approach](https://2022.cswimworkshop.org/wp-content/uploads/2022/08/CSWIM-2022-Proceedings_18-Aug.pdf)[C]. **Jiaxin Wang**, Jiaqi Yan, Qian'ang Mao. **15th China Summer Workshop on Information Management (CSWIM 2022)**, Ningbo, China, 145-150.
 
 - [Research on UAV Image Recognition Based on Convolutional Neural Network](https://doi.org/10.1109/ICAICA50127.2020.9182686)[C]. Junfei Chen, Kunyi Lu, **Jiaxin Wang**. **2020 IEEE International Conference on Artificial Intelligence and Computer Applications (ICAICA)**, Dalian, China, 2020, pp. 819-823
 
