@@ -32,11 +32,11 @@ My research interest includes neural machine translation and computer vision.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2025</div><img src='images/WWW2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Gamblers or Delegatees: Identifying Hidden Participant Roles in Crypto Casinos](https://dl.acm.org/doi/abs/10.1145/3696410.3714689)
+[Gamblers or Delegatees: Identifying Hidden Participant Roles in Crypto Casinos](https://dl.acm.org/doi/abs/10.1145/3696410.3714689) [code](https://github.com/njublockchain/crypto-casino-delegatee-mining)
 
 **Jiaxin Wang**, Qian'ang Mao, Hongliang Sun, Jiaqi Yan
 
-[The Web Conference'25(WWW'25) Oral Presentation] [code](https://github.com/njublockchain/crypto-casino-delegatee-mining)
+[The Web Conference'25 (WWW'25, CCF-A) Oral Presentation]
 
 **Keywords**: Crypto gambling, anonymity, security, delegatees, role identification, graph neural networks, structural entropy
 
@@ -46,9 +46,9 @@ My research interest includes neural machine translation and computer vision.
 </div>
 </div>
 
-- [Behind the scenes in metaverses: exploring undercover role cooperations with cryptocurrency transactions through an intellectual capital lens](https://www.emerald.com/jic/article-abstract/doi/10.1108/JIC-03-2025-0068/1301129/Behind-the-scenes-in-metaverses-exploring?redirectedFrom=fulltext), **Jiaxin Wang**, Qian'ang Mao, Jiaqi Yan, **Journal of Intellectual Capital**
+- [Behind the scenes in metaverses: exploring undercover role cooperations with cryptocurrency transactions through an intellectual capital lens](https://www.emerald.com/jic/article-abstract/doi/10.1108/JIC-03-2025-0068/1301129/Behind-the-scenes-in-metaverses-exploring?redirectedFrom=fulltext), **Jiaxin Wang**, Qian'ang Mao, Jiaqi Yan, **Journal of Intellectual Capital (JCR Q1, ABS 2, ABDC B)**
 
-- [Architectural Patterns for Blockchain-enabled Federated Learning], **Jiaxin Wang**, Dongying Shi, Shanshan Li, Jiaqi Yan, et al. **Under the 2nd Review of Journal of Systems and Software**
+- [Architectural Patterns for Blockchain-enabled Federated Learning], **Jiaxin Wang**, Dongying Shi, Shanshan Li, Jiaqi Yan, et al. **Under the 2nd Review of Journal of Systems and Software (JCR Q1, CCF-B)**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
