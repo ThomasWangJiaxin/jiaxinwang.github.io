@@ -29,10 +29,6 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=Vm54jdoAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=Vm54jdoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
-<!-- # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
-
 # 📖 Educations
 - *2021.09 - Now*, Ph.D Candidate, Nanjing University, Information Resource Management.
 - *2017.09 - 2021.06*, Bachelor, Donghua University, Information Management and Information Systems. 
@@ -93,13 +89,23 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 
 - AI for Web3 Business Ecosystems: A Systematic Literature Review. Li Zhu, **Jiaxin Wang***, Ya Liu, Qian'ang Mao, Jiaqi Yan. **Under the 1st Review of Journal of Technolgy Transfer (JCR Q2, ABS 3, ABDC B)**
 
+# 🔥 Projects
+- 主持一项江苏省研究生实践创新计划项目——国家安全管理视域下区块链情报智能分析平台的构建(SJCX22_0009, 2021-2023)
+- 参与一项国家自然科学基金面上项目——面向"隐匿-抗毁"的黑灰产加密货币交易网络动态角色识别与最优瓦解分析(72571131, 2026-2029)
+- 参与一项国家自然科学基金面上项目——恐怖主义数字货币融资交易实体角色识别与知识图谱分析方法研究(72171115, 2021-2025)
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💬 Patents
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- [基于用户使用意图感知的推荐方法和电子设备: CN120492740B](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)[P]. 颜嘉麒;柳亚;朱莉;王佳鑫;毛谦昂;胡广伟. 2025-09-09
+- [基于超图的引文推荐方法及电子设备: CN120524006A](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)[P]. 颜嘉麒;柳亚;朱莉;王佳鑫;毛谦昂;胡广伟. 2025-09-26
+
+# 💬 Services
+- Journal Reviews:《Journal of Intellectual Capital》(JCR Q1),《IET Blockchain》(EI) Reviewer
+- Conference Reviews: ICIS2025, PACIS2024/2025, HICSS-58/59, WWW2024, WWW2025, KDD2024
+- [Association of Information Systems (AIS) Doctoral Student College Volunteers - Region 3 Coordinator](https://communities.aisnet.org/doctoralstudentcollege/get-involved)
 
 # 💻 Internships
 - *2021.03 - 2021.05*, **Product Manager Intern**, **ByteDance Infrastructure - Cloud Native - Observability Team**, China.
