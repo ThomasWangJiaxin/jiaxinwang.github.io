@@ -86,7 +86,6 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 # 📝 Working Papers 
 
 - Architectural Patterns for Blockchain-enabled Federated Learning. **Jiaxin Wang**, Dongying Shi, Shanshan Li, Jiaqi Yan, et al. **Under the 2nd Review of Journal of Systems and Software (JCR Q1, CCF-B)**
-
 - AI for Web3 Business Ecosystems: A Systematic Literature Review. Li Zhu, **Jiaxin Wang***, Ya Liu, Qian'ang Mao, Jiaqi Yan. **Under the 1st Review of Journal of Technolgy Transfer (JCR Q2, ABS 3, ABDC B)**
 
 # 🔥 Projects
@@ -95,8 +94,8 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 - 参与一项国家自然科学基金面上项目——恐怖主义数字货币融资交易实体角色识别与知识图谱分析方法研究(72171115, 2021-2025)
 
 # 💬 Patents
-- [基于用户使用意图感知的推荐方法和电子设备](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)[P](CN120492740B). 颜嘉麒;柳亚;朱莉;**王佳鑫**;毛谦昂;胡广伟. 2025-09-09
-- [基于超图的引文推荐方法及电子设备](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)[P](CN120524006A). 颜嘉麒;柳亚;朱莉;**王佳鑫**;毛谦昂;胡广伟. 2025-09-26
+- [基于用户使用意图感知的推荐方法和电子设备](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)[P] (CN120492740B). 颜嘉麒;柳亚;朱莉;**王佳鑫**;毛谦昂;胡广伟. 2025-09-09
+- [基于超图的引文推荐方法及电子设备](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)[P] (CN120524006A). 颜嘉麒;柳亚;朱莉;**王佳鑫**;毛谦昂;胡广伟. 2025-09-26
 
 # 💬 Services
 - [Journal Reviews:《Journal of Intellectual Capital》(JCR Q1),《IET Blockchain》(EI) Reviewer](https://orcid.org/0000-0002-8432-7902)
@@ -108,7 +107,7 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 
 # 🎖 Awards, Honors, and Scholarships
 **Awards**
-- [第十四届“挑战杯”中国大学生创业计划竞赛全国金奖(“一带一路”国际邀请专项赛)](https://tiaozhanbei2025.nju.edu.cn/27/38/c60897a730936/page.psp)[[中国青年报报道]](http://m.cyol.com/gb/articles/2025-01/08/content_lb65xQsWog.html)
+- [第十四届“挑战杯”中国大学生创业计划竞赛全国金奖(“一带一路”国际邀请专项赛)](http://m.cyol.com/gb/articles/2025-01/08/content_lb65xQsWog.html)
 - 第十三届“挑战杯”中国大学生创业计划竞赛全国金奖、省级金奖、校级金奖
 - 第六届中国国际“互联网+”创新创业大赛全国银奖、省级金奖、校级金奖
 - 第八届中国研究生智慧城市技术与创意设计大赛二等奖
@@ -144,7 +143,7 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 
 **Scholarship**
 - 本科生国家奖学金(2020)
-- 南京大学栋梁优秀奖学金(自主创业奖)(2024)
+- 南京大学栋梁优秀奖学金——自主创业奖(2024)
 - 南京大学-中国光谷奖学金(2023)
 - 南京大学研究生英才一等奖学金(2022)
 - 南京大学郑钢菁英奖学金(2023)
