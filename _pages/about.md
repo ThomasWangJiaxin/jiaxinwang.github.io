@@ -29,7 +29,7 @@ My research interest includes neural machine translation and computer vision.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2025</div><img src='images/500*300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2025</div><img src='images/WWW2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Gamblers or Delegatees: Identifying Hidden Participant Roles in Crypto Casinos](https://dl.acm.org/doi/abs/10.1145/3696410.3714689)
