@@ -62,10 +62,25 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 
 - [Smoke and mirrors: Uncovering hidden delegatees within crypto gambling ecosystems](https://scholarspace.manoa.hawaii.edu/items/f01d09b1-10f5-4e4f-b72c-431709ab9320)[C]. **Jiaxin Wang**, Qian'ang Mao, Hongliang Sun, Jiaqi Yan, Yani Shi. **Proceedings of the 58th Hawaii International Conference on System Sciences (HICSS-58, Best Paper Nomination)**
 
-- [融合多维学术特征的引文推荐：一种基于异质图卷积网络的方法](https://www.xdqb.net/CN/10.3969/j.issn.1008-0821.2025.07.003)[J]. 柳亚，毛谦昂，朱莉，**王佳鑫**等. 现代情报 (CSSCI),2025,45(7):26-35
+- [融合多维学术特征的引文推荐：一种基于异质图卷积网络的方法](https://www.xdqb.net/CN/10.3969/j.issn.1008-0821.2025.07.003)[J]. 柳亚，毛谦昂，朱莉，**王佳鑫**等. **现代情报(CSSCI)**,2025,45(7):26-35
 
-- [Unravelling Stablecoin-Favored Ecosystem: Extracting, Exploring On-Chain Data from TRON Blockchain](https://doi.org/10.1007/978-981-97-9412-6_21)[C], Qian’ang Mao, **Jiaxin Wang**, Zhiqi Feng, Jiaqi Yan. **Blockchain and Web3.0 Technology Innovation and Application (BWTAC 2024)**. Communications in Computer and Information Science, vol 2277. Springer, Singapore.
+- [区块链混币监管技术研究综述](https://kns.cnki.net/kcms2/article/abstract?v=of4N6dfUJfzd90cU1oUf-tl3CFyYdpwYulxuZft74gh2ISm4ANrDCX9chrGBsKmrih_RgM-OJZ9qJblsvnHrALMkM5TIzbq4eCspgyGDVqqTNNsus_WVszNy-7nKEIo7AWvDdBgaDadvRQ1bNBoizQ84wUZK2oaNftDc4eWj02N4ng54FakSDw==&uniplatform=NZKPT&language=CHS)[J]. **王佳鑫**,毛谦昂,颜嘉麒等. **计算机工程(CSCD)**,2025,1-19
 
+- [Targeting the Achilles’ Heel: A GNN Framework for Dismantling Cryptocurrency War-Financing Networks](https://aisel.aisnet.org/icis2024/blockchain/blockchain/6/)[C]. Qian'ang Mao, **Jiaxin Wang**, Jiaqi Yan et al. **International Conference on Information Systems(ICIS 2024, Best Paper Nomination, Best Paper in Track)**.
+
+- [Unravelling Stablecoin-Favored Ecosystem: Extracting, Exploring On-Chain Data from TRON Blockchain](https://doi.org/10.1007/978-981-97-9412-6_21)[C]. Qian’ang Mao, **Jiaxin Wang**, Zhiqi Feng, Jiaqi Yan. **Blockchain and Web3.0 Technology Innovation and Application (BWTAC 2024)**. Communications in Computer and Information Science, vol 2277. Springer, Singapore.
+
+- [区块链游戏生态的角色动态识别与演化分析——以Axie Infinity为](https://www.jas.shu.edu.cn/CN/10.3969/j.issn.0255-8297.2024.04.007)[J]. 刘凯,**王佳鑫**,毛谦昂等. **应用科学学报(CSCD)**,2024,42(04):642-658.
+
+- [Identifying Crypto Addresses with Gambling Behaviors: A Graph Neural Network Approach](https://aisel.aisnet.org/pacis2023/210/)[C]. **Jiaxin Wang**, Qian'ang Mao, Jiaqi Yan et al. **Pacific Asia Conference on Information Systems(PACIS 2023)**, Nanchang, China.
+
+- [加密数字货币监管技术研究综述](https://www.joca.cn/CN/10.11772/j.issn.1001-9081.2022111694)[J]. 王佳鑫,颜嘉麒,毛谦昂. **计算机应用(CSCD)**,2023,43(10):2983-2995.
+
+- [加密数字货币恐怖融资监管：交易模式分析与异常实体识别](https://dik.whu.edu.cn/jwk3/tsqbzs/CN/10.13366/j.dik.2022.06.055)[J]. 颜嘉麒,王佳鑫*,毛谦昂等. **图书情报知识(CSSCI,社科基金资助期刊)**,2022,39(6):55-66
+
+- Detecting and Characterizing Abnormal Addresses in the Bitcoin Transaction System: A Social Network Approach. **Jiaxin Wang**, Jiaqi Yan, Qian'ang Mao. **15th China Summer Workshop on Information Management(CSWIM 2022)**, Ningbo, China, 145-150.
+
+- [Research on UAV Image Recognition Based on Convolutional Neural Network](https://doi.org/10.1109/ICAICA50127.2020.9182686)[C]. Junfei Chen, Kunyi Lu, **Jiaxin Wang**. **2020 IEEE International Conference on Artificial Intelligence and Computer Applications (ICAICA)**, Dalian, China, 2020, pp. 819-823
 
 
 # 📝 Working Papers 
