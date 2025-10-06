@@ -34,7 +34,7 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📖 Educations
-- *2021.06 - Now*, Ph.D Candidate, Nanjing University, Information Resource Management.
+- *2021.09 - Now*, Ph.D Candidate, Nanjing University, Information Resource Management.
 - *2017.09 - 2021.06*, Bachelor, Donghua University, Information Management and Information Systems. 
 
 # 📝 Publications 
