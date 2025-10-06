@@ -107,5 +107,17 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 - *2021.03 - 2021.05*, **Product Manager Intern**, **ByteDance Infrastructure - Cloud Native - Observability Team**, China.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 第十四届“挑战杯”中国大学生创业计划竞赛全国金奖(“一带一路”国际邀请专项赛)、第十三届“挑战杯”中国大学生创业计划竞赛全国金奖、省级金奖、校级金奖、第六届中国国际“互联网+”创新创业大赛全国银奖、省级金奖、校级金奖
+					<p>第八届中国研究生智慧城市技术与创意设计大赛二等奖</p>
+					<p>第八届江苏省“互联网+”大学生创新创业大赛二等奖</p>
+					<p>第十届“赢在南京”青年大学生创业大赛二等奖</p>
+					<p>第五届“中国创翼”创业创新大赛全国创翼之星奖、江苏省一等奖、南京市一等奖</p>
+					<p>第十一届中国创新创业大赛江苏赛区优秀团队、南京赛区二等奖</p>
+					<p>第十二届中国大学生服务外包创新创业大赛全国二等奖、东部区域赛一等奖</p>
+					<p>第九届上海市大学生电子商务“创新、创意、创业”大赛特等奖、最佳创意奖</p>
+					<p>第十二届“挑战杯”上海市大学生创业计划竞赛银奖</p>
+					<p>第七届上海市“互联网+”大学生创新创业大赛银奖</p>
+					<p>第六届“汇创青春”上海市大学生文化创意作品展示活动一等奖*4、最佳表现奖、优秀展示奖</p>
+					<p>2019年美国大学生数学建模大赛H奖</p>
+					<p>第七届全国青年科普创新实验暨作品大赛上海赛区三等奖</p>
+					<p>2020年上海市大学生计算机应用能力大赛三等奖</p>
