@@ -95,8 +95,8 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 - 参与一项国家自然科学基金面上项目——恐怖主义数字货币融资交易实体角色识别与知识图谱分析方法研究(72171115, 2021-2025)
 
 # 💬 Patents
-- [基于用户使用意图感知的推荐方法和电子设备: CN120492740B](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)[P]. 颜嘉麒;柳亚;朱莉;**王佳鑫**;毛谦昂;胡广伟. 2025-09-09
-- [基于超图的引文推荐方法及电子设备: CN120524006A](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)[P]. 颜嘉麒;柳亚;朱莉;**王佳鑫**;毛谦昂;胡广伟. 2025-09-26
+- [基于用户使用意图感知的推荐方法和电子设备](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)[P](CN120492740B). 颜嘉麒;柳亚;朱莉;**王佳鑫**;毛谦昂;胡广伟. 2025-09-09
+- [基于超图的引文推荐方法及电子设备](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)[P](CN120524006A). 颜嘉麒;柳亚;朱莉;**王佳鑫**;毛谦昂;胡广伟. 2025-09-26
 
 # 💬 Services
 - [Journal Reviews:《Journal of Intellectual Capital》(JCR Q1),《IET Blockchain》(EI) Reviewer](https://orcid.org/0000-0002-8432-7902)
