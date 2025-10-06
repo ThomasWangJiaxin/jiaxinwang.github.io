@@ -17,21 +17,25 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Jiaxin Wang is a Ph.D. candidate (on the continuous study program from Master's to Ph.D.) in Information Resource Management at Nanjing University. He holds a Bachelor of Management degree from Donghua University.
+Jiaxin Wang is a Ph.D. candidate (in a continuous Master-to-Ph.D. program) in Information Resource Management at Nanjing University. He holds a Bachelor of Management degree in Information Management and Information Systems from Donghua University.
 
-My research primarily revolves around three core areas about Blockchain:
+My research mainly focuses on blockchain, spanning the fields of **Information Systems (IS), Software Engineering (SE), and Computer Science (CS)**. Specifically, my work centers on the following three directions:
 
-**Blockchain Regulation**: Utilizing design science methodologies like Graph Neural Networks (GNNs) and complex network analysis, he focuses on identifying and tracking anomalous transactions and entity roles within massive cryptocurrency transaction data. This research addresses critical regulatory challenges such as anonymity and security in the crypto economy, with applications across various scenarios, including crypto casinos, the metaverse, blockchain gaming, and digital currency terrorism financing.
+**A. Blockchain Regulation**: Utilizing **design science** methodologies like Graph Neural Networks and complex network analysis, he focuses on identifying and tracking anomalous transactions and entity roles within cryptocurrency transaction data. This research addresses critical regulatory challenges such as anonymity and security in the crypto economy, with applications across various scenarios, including crypto casinos, the metaverse, blockchain gaming, and cryptocurrency terrorism financing.
 
-**Blockchain Open-Source Ecosystems**: He employs software engineering methodologies and predictive modeling to deeply analyze blockchain open-source ecosystems, exemplified by projects like Bitcoin and Ethereum. This quantitative and qualitative analysis aims to understand mechanisms related to core contributor role evolution, community governance, and competitive diffusion.
+**B. Blockchain Open-Source Software**: To employ **software engineering methodologies and predictive modeling** to deeply analyze blockchain open-source ecosystems. This quantitative and qualitative analysis aims to understand mechanisms related to core contributor role evolution, community governance, and competitive diffusion.
 
-**Technology Fusion and Trends**: Through methods such as bibliometrics and topic modeling, he systematically reviews the current status and future trends of blockchain's integration with other frontier technologies, including Federated Learning and Artificial Intelligence (AI).
+**C. Blockchain Technology Trends**: Through methods such as **bibliometrics and topic modeling**, he systematically reviews the current status and future trends of blockchain's integration with other frontier technologies, including Federated Learning and Artificial Intelligence (AI).
 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=Vm54jdoAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=Vm54jdoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
-# 🔥 News
+<!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+
+# 📖 Educations
+- *2021.06 - Now*, Ph.D Candidate, Nanjing University, Information Resource Management.
+- *2017.09 - 2021.06*, Bachelor, Donghua University, Information Management and Information Systems. 
 
 # 📝 Publications 
 
@@ -40,15 +44,15 @@ My research primarily revolves around three core areas about Blockchain:
 
 [Gamblers or Delegatees: Identifying Hidden Participant Roles in Crypto Casinos](https://dl.acm.org/doi/abs/10.1145/3696410.3714689) 
 
-[[Code]](https://github.com/njublockchain/crypto-casino-delegatee-mining) [[Paper]](https://dl.acm.org/doi/abs/10.1145/3696410.3714689) [[Oral Presentation]]([https://github.com/njublockchain/crypto-casino-delegatee-mining](https://github.com/njublockchain/crypto-casino-delegatee-mining/blob/WWW/WWW2025%20Oral%20Presentation.pdf))
-
 **Jiaxin Wang**, Qian'ang Mao, Hongliang Sun, Jiaqi Yan
 
 **[The Web Conference'25 (WWW'25, CCF-A)]**
 
+[[Code]](https://github.com/njublockchain/crypto-casino-delegatee-mining) [[Paper]](https://dl.acm.org/doi/abs/10.1145/3696410.3714689) [[Oral Presentation]]([https://github.com/njublockchain/crypto-casino-delegatee-mining](https://github.com/njublockchain/crypto-casino-delegatee-mining/blob/WWW/WWW2025%20Oral%20Presentation.pdf))
+
 **Keywords**: Crypto gambling, anonymity, security, delegatees, role identification, graph neural networks, structural entropy
 
-**Citations**: <span class='show_paper_citations' data='Vm54jdoAAAAJ:IWHjjKOFINEC'></span>
+<!-- **Citations**: <span class='show_paper_citations' data='Vm54jdoAAAAJ:IWHjjKOFINEC'></span> -->
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 </div>
@@ -56,15 +60,20 @@ My research primarily revolves around three core areas about Blockchain:
 
 - [Behind the scenes in metaverses: exploring undercover role cooperations with cryptocurrency transactions through an intellectual capital lens](https://www.emerald.com/jic/article-abstract/doi/10.1108/JIC-03-2025-0068/1301129/Behind-the-scenes-in-metaverses-exploring?redirectedFrom=fulltext), **Jiaxin Wang**, Qian'ang Mao, Jiaqi Yan, **Journal of Intellectual Capital (JCR Q1, ABS 2, ABDC B)**
 
-- [Architectural Patterns for Blockchain-enabled Federated Learning], **Jiaxin Wang**, Dongying Shi, Shanshan Li, Jiaqi Yan, et al. **Under the 2nd Review of Journal of Systems and Software (JCR Q1, CCF-B)**
+- Architectural Patterns for Blockchain-enabled Federated Learning, **Jiaxin Wang**, Dongying Shi, Shanshan Li, Jiaqi Yan, et al. **Under the 2nd Review of Journal of Systems and Software (JCR Q1, CCF-B)**
+
+- [Smoke and mirrors: Uncovering hidden delegatees within crypto gambling ecosystems](), 
+
+
+# 📝 Working Papers 
+
+- Architectural Patterns for Blockchain-enabled Federated Learning, **Jiaxin Wang**, Dongying Shi, Shanshan Li, Jiaqi Yan, et al. **Under the 2nd Review of Journal of Systems and Software (JCR Q1, CCF-B)**
+
+- AI for Web3 Business Ecosystems: A Systematic Literature Review, Li Zhu, **Jiaxin Wang***, Ya Liu, Qian'ang Mao, Jiaqi Yan. **Under the 1st Review of Journal of Technolgy Transfer (JCR Q2, ABS 3, ABDC B)**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
