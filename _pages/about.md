@@ -17,9 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Jiaxin Wang .
+Jiaxin Wang is a Ph.D. candidate (on the continuous study program from Master's to Ph.D.) in Information Resource Management at Nanjing University. He holds a Bachelor of Management degree from Donghua University.
 
-My research interest includes neural machine translation and computer vision. 
+My research primarily revolves around three core areas about Blockchain:
+
+**Blockchain Regulation**: Utilizing design science methodologies like Graph Neural Networks (GNNs) and complex network analysis, he focuses on identifying and tracking anomalous transactions and entity roles within massive cryptocurrency transaction data. This research addresses critical regulatory challenges such as anonymity and security in the crypto economy, with applications across various scenarios, including crypto casinos, the metaverse, blockchain gaming, and digital currency terrorism financing.
+
+**Blockchain Open-Source Ecosystems**: He employs software engineering methodologies and predictive modeling to deeply analyze blockchain open-source ecosystems, exemplified by projects like Bitcoin and Ethereum. This quantitative and qualitative analysis aims to understand mechanisms related to core contributor role evolution, community governance, and competitive diffusion.
+
+**Technology Fusion and Trends**: Through methods such as bibliometrics and topic modeling, he systematically reviews the current status and future trends of blockchain's integration with other frontier technologies, including Federated Learning and Artificial Intelligence (AI).
 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=Vm54jdoAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=Vm54jdoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -29,12 +35,12 @@ My research interest includes neural machine translation and computer vision.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2025</div><img src='images/WWW2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW'25</div><img src='images/WWW2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Gamblers or Delegatees: Identifying Hidden Participant Roles in Crypto Casinos](https://dl.acm.org/doi/abs/10.1145/3696410.3714689) 
 
-[[code]](https://github.com/njublockchain/crypto-casino-delegatee-mining) [[Paper]](https://dl.acm.org/doi/abs/10.1145/3696410.3714689) [[Oral Presentation]]([https://github.com/njublockchain/crypto-casino-delegatee-mining](https://github.com/njublockchain/crypto-casino-delegatee-mining/blob/WWW/WWW2025%20Oral%20Presentation.pdf))
+[[Code]](https://github.com/njublockchain/crypto-casino-delegatee-mining) [[Paper]](https://dl.acm.org/doi/abs/10.1145/3696410.3714689) [[Oral Presentation]]([https://github.com/njublockchain/crypto-casino-delegatee-mining](https://github.com/njublockchain/crypto-casino-delegatee-mining/blob/WWW/WWW2025%20Oral%20Presentation.pdf))
 
 **Jiaxin Wang**, Qian'ang Mao, Hongliang Sun, Jiaqi Yan
 
