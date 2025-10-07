@@ -21,11 +21,17 @@ Jiaxin Wang is a Ph.D. candidate (in a continuous Master-to-Ph.D. program) in In
 
 My research mainly focuses on blockchain, spanning the fields of **Information Systems (IS), Software Engineering (SE), and Computer Science (CS)**. Specifically, my work centers on the following three directions:
 
-**A. Blockchain Regulation**: Utilizing **design science** methodologies like Graph Neural Networks and complex network analysis, he focuses on identifying and tracking anomalous transactions and entity roles within cryptocurrency transaction data. This research addresses critical regulatory challenges such as anonymity and security in the crypto economy, with applications across various scenarios, including crypto casinos, the metaverse, blockchain gaming, and cryptocurrency terrorism financing.
+**A. Blockchain Regulation**: 
+Methods: **Computational Design Science**
+Research Questions: To identify and track anomalous transactions and entity roles within cryptocurrency transaction data. This research addresses critical regulatory challenges such as anonymity and security in the crypto economy, with applications across various scenarios, including crypto casinos, the metaverse, blockchain gaming, and cryptocurrency terrorism financing.
 
-**B. Blockchain Open-Source Software**: To employ **software engineering methodologies and predictive modeling** to deeply analyze blockchain open-source ecosystems. This quantitative and qualitative analysis aims to understand mechanisms related to core contributor role evolution, community governance, and competitive diffusion.
+**B. Blockchain Open-Source Software**: 
+Methods: **Quantitative and Qualitative analysis - Software Engineering, Predictive Modeling** 
+Research Questions: To analyze blockchain open-source ecosystems related to core contributor role evolution, community governance, and competitive diffusion.
 
-**C. Blockchain Technology Trends**: Through methods such as **bibliometrics and topic modeling**, he systematically reviews the current status and future trends of blockchain's integration with other frontier technologies, including Federated Learning and Artificial Intelligence (AI).
+**C. Blockchain Technology Trends**: 
+Methods: **Quantitative and Qualitative analysis - Bibliometrics, Topic Modeling**
+Research Questions: To review the current status and future trends of blockchain's integration with other frontier technologies, including Federated Learning and Artificial Intelligence (AI).
 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=Vm54jdoAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=Vm54jdoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
