@@ -23,26 +23,26 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 
 **A. Blockchain Regulation**: 
 
-Methods: **Computational Design Science**
+- Methodologies: **Computational Design Science**
 
-Research Questions: To identify and track anomalous transactions and entity roles within cryptocurrency transaction data. This research addresses critical regulatory challenges such as anonymity and security in the crypto economy, with applications across various scenarios, including crypto casinos, the metaverse, blockchain gaming, and cryptocurrency terrorism financing.
+- Research Questions: To identify and track anomalous transactions and entity roles within cryptocurrency transaction data. This research addresses critical regulatory challenges such as anonymity and security in the crypto economy, with applications across various scenarios, including crypto casinos, the metaverse, blockchain gaming, and cryptocurrency terrorism financing.
 
 **B. Blockchain Open-Source Software**: 
 
-Methods: **Quantitative and Qualitative analysis - Software Engineering, Predictive Modeling** 
+- Methodologies: **Quantitative and Qualitative analysis - Software Engineering, Predictive Modeling** 
 
-Research Questions: To analyze blockchain open-source ecosystems related to core contributor role evolution, community governance, and competitive diffusion.
+- Research Questions: To analyze blockchain open-source ecosystems related to core contributor role evolution, community governance, and competitive diffusion.
 
 **C. Blockchain Technology Trends**: 
 
-Methods: **Quantitative and Qualitative analysis - Bibliometrics, Topic Modeling**
+- Methodologies: **Quantitative and Qualitative analysis - Bibliometrics, Topic Modeling**
 
-Research Questions: To review the current status and future trends of blockchain's integration with other frontier technologies, including Federated Learning and Artificial Intelligence (AI).
+- Research Questions: To review the current status and future trends of blockchain's integration with other frontier technologies, including Federated Learning and Artificial Intelligence (AI).
 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=Vm54jdoAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=Vm54jdoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 📖 Educations
-- *2021.09 - Now*, Ph.D Candidate, Nanjing University, Information Resource Management.
+- *2021.09 - Now*, Ph.D Candidate (Master–Ph.D. Integrated Program), Nanjing University, Information Resource Management.
 - *2017.09 - 2021.06*, Bachelor, Donghua University, Information Management and Information Systems. 
 
 # 📝 Publications 
