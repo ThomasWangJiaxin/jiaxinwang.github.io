@@ -88,7 +88,7 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 
 - [加密数字货币监管技术研究综述](https://www.joca.cn/CN/10.11772/j.issn.1001-9081.2022111694)[J]. **王佳鑫**,颜嘉麒,毛谦昂. **计算机应用(CSCD)**,2023,43(10):2983-2995.
 
-- [加密数字货币恐怖融资监管：交易模式分析与异常实体识别](https://dik.whu.edu.cn/jwk3/tsqbzs/CN/10.13366/j.dik.2022.06.055)[J]. 颜嘉麒,**王佳鑫***,毛谦昂等. **图书情报知识(CSSCI,社科基金资助期刊)**,2022,39(6):55-66
+- [加密数字货币恐怖融资监管：交易模式分析与异常实体识别，](https://dik.whu.edu.cn/jwk3/tsqbzs/CN/10.13366/j.dik.2022.06.055)[J]. 颜嘉麒,**王佳鑫***,毛谦昂等. **图书情报知识(CSSCI,社科基金资助期刊)**,2022,39(6):55-66
 
 - [Detecting and Characterizing Abnormal Addresses in the Bitcoin Transaction System: A Social Network Approach](https://2022.cswimworkshop.org/wp-content/uploads/2022/08/CSWIM-2022-Proceedings_18-Aug.pdf)[C]. **Jiaxin Wang**, Jiaqi Yan, Qian'ang Mao. **15th China Summer Workshop on Information Management (CSWIM 2022)**, Ningbo, China, 145-150.
 
@@ -101,13 +101,13 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 - AI for Web3 Business Ecosystems: A Systematic Literature Review. Li Zhu, **Jiaxin Wang***, Ya Liu, Qian'ang Mao, Jiaqi Yan. **Under the 1st Review of Journal of Technolgy Transfer (JCR Q2, ABS 3, ABDC B)**
 
 # 🔥 Projects
-- 主持一项江苏省研究生实践创新计划项目——国家安全管理视域下区块链情报智能分析平台的构建(SJCX22_0009, 2021-2023)[Translation: Principal Investigator (PI) of Jiangsu Province Graduate Practice Innovation Project: "Construction of Blockchain Intelligence Analysis Platform from the Perspective of National Security Management" (SJCX22_0009, 2021–2023)]
+- 主持一项江苏省研究生实践创新计划项目——国家安全管理视域下区块链情报智能分析平台的构建(SJCX22_0009, 2021-2023)[Principal Investigator (PI) of Jiangsu Province Graduate Practice Innovation Project: "Construction of Blockchain Intelligence Analysis Platform from the Perspective of National Security Management" (SJCX22_0009, 2021–2023)]
 - 参与一项国家自然科学基金面上项目——面向"隐匿-抗毁"的黑灰产加密货币交易网络动态角色识别与最优瓦解分析(72571131, 2026-2029) [Participant in National Natural Science Foundation of China (NSFC) General Program: "Dynamic Role Identification and Optimal Dismantling Analysis of Covert and Resilient Black/Gray Market Cryptocurrency Trading Networks" (72571131, 2026–2029)]
 - 参与一项国家自然科学基金面上项目——恐怖主义数字货币融资交易实体角色识别与知识图谱分析方法研究(72171115, 2021-2025) [Participant in National Natural Science Foundation of China (NSFC) General Program: "Research on Entity Role Identification and Knowledge Graph Analysis Methods for Terrorist Digital Currency Financing Transactions" (72171115, 2021–2025)]
 
 # 💬 Patents
 - [基于用户使用意图感知的推荐方法和电子设备](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)[P] (CN120492740B). 颜嘉麒;柳亚;朱莉;**王佳鑫**;毛谦昂;胡广伟. 2025-09-09 [Translation: Recommendation Method and Electronic Device Based on User Usage Intention Perception. Yan, J., Liu, Y., Zhu, L., **Wang, J.**, Mao, Q., & Hu, G. China Patent No. CN120492740B. Published September 9, 2025.]
-- [基于超图的引文推荐方法及电子设备](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)[P] (CN120524006A). 颜嘉麒;柳亚;朱莉;**王佳鑫**;毛谦昂;胡广伟. 2025-09-26 [Citation Recommendation Method and Electronic Device Based on Hypergraph. Yan, J., Liu, Y., Zhu, L., **Wang, J.**, Mao, Q., & Hu, G. China Patent Application No. CN120524006A. Published September 26, 2025.]
+- [基于超图的引文推荐方法及电子设备](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)[P] (CN120524006A). 颜嘉麒;柳亚;朱莉;**王佳鑫**;毛谦昂;胡广伟. 2025-09-26 [Citation Recommendation Method and Electronic Device Based on Hypergraph. Yan, J., Liu, Y., Zhu, L., **Wang, J.**, Mao, Q., & Hu, G. China Patent No. CN120524006A. Published September 26, 2025.]
 
 # 💬 Services
 - [Journal Reviews:《Journal of Intellectual Capital》(JCR Q1),《IET Blockchain》(EI) Reviewer](https://orcid.org/0000-0002-8432-7902)
