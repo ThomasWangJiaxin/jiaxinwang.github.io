@@ -23,21 +23,21 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 
 **A. Blockchain Regulation**: 
 
-- Methodologies: **Computational Design Science**
+- Methodology: **Computational Design Science**
 
-- Research Questions: To identify and track anomalous transactions and entity roles within cryptocurrency transaction data. This research addresses critical regulatory challenges such as anonymity and security in the crypto economy, with applications across various scenarios, including crypto casinos, the metaverse, blockchain gaming, and cryptocurrency terrorism financing.
+- Research Question: To identify and track anomalous transactions and entity roles within cryptocurrency transaction data. This research addresses critical regulatory challenges such as anonymity and security in the crypto economy, with applications across various scenarios, including crypto casinos, the metaverse, blockchain gaming, and cryptocurrency terrorism financing.
 
 **B. Blockchain Open-Source Software**: 
 
 - Methodologies: **Quantitative and Qualitative analysis - Software Engineering, Predictive Modeling** 
 
-- Research Questions: To analyze blockchain open-source ecosystems related to core contributor role evolution, community governance, and competitive diffusion.
+- Research Question: To analyze blockchain open-source ecosystems related to core contributor role evolution, community governance, and competitive diffusion.
 
 **C. Blockchain Technology Trends**: 
 
 - Methodologies: **Quantitative and Qualitative analysis - Bibliometrics, Topic Modeling**
 
-- Research Questions: To review the current status and future trends of blockchain's integration with other frontier technologies, including Federated Learning and Artificial Intelligence (AI).
+- Research Question: To review the current status and future trends of blockchain's integration with other frontier technologies, including Federated Learning and Artificial Intelligence (AI).
 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=Vm54jdoAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=Vm54jdoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -70,7 +70,7 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 
 - [Smoke and mirrors: Uncovering hidden delegatees within crypto gambling ecosystems](https://scholarspace.manoa.hawaii.edu/items/f01d09b1-10f5-4e4f-b72c-431709ab9320)[C]. **Jiaxin Wang**, Qian'ang Mao, Hongliang Sun, Jiaqi Yan, Yani Shi. **Proceedings of the 58th Hawaii International Conference on System Sciences (HICSS-58, Best Paper Nomination)**
 
-- [融合多维学术特征的引文推荐：一种基于异质图卷积网络的方法](https://www.xdqb.net/CN/10.3969/j.issn.1008-0821.2025.07.003)[J]. 柳亚，毛谦昂，朱莉，**王佳鑫**等. **现代情报(CSSCI)**,2025,45(7):26-35
+- [融合多维学术特征的引文推荐：一种基于异质图卷积网络的方法](https://www.xdqb.net/CN/10.3969/j.issn.1008-0821.2025.07.003)[J]. 柳亚,朱莉,毛谦昂,**王佳鑫**等. **现代情报(CSSCI)**,2025,45(7):26-35
 
 - [区块链混币监管技术研究综述](https://kns.cnki.net/kcms2/article/abstract?v=of4N6dfUJfzd90cU1oUf-tl3CFyYdpwYulxuZft74gh2ISm4ANrDCX9chrGBsKmrih_RgM-OJZ9qJblsvnHrALMkM5TIzbq4eCspgyGDVqqTNNsus_WVszNy-7nKEIo7AWvDdBgaDadvRQ1bNBoizQ84wUZK2oaNftDc4eWj02N4ng54FakSDw==&uniplatform=NZKPT&language=CHS)[J]. **王佳鑫**,毛谦昂,颜嘉麒等. **计算机工程(CSCD)**,2025,1-19
 
@@ -101,13 +101,13 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 - AI for Web3 Business Ecosystems: A Systematic Literature Review. Li Zhu, **Jiaxin Wang***, Ya Liu, Qian'ang Mao, Jiaqi Yan. **Under the 1st Review of Journal of Technolgy Transfer (JCR Q2, ABS 3, ABDC B)**
 
 # 🔥 Projects
-- 主持一项江苏省研究生实践创新计划项目——国家安全管理视域下区块链情报智能分析平台的构建(SJCX22_0009, 2021-2023)
-- 参与一项国家自然科学基金面上项目——面向"隐匿-抗毁"的黑灰产加密货币交易网络动态角色识别与最优瓦解分析(72571131, 2026-2029)
-- 参与一项国家自然科学基金面上项目——恐怖主义数字货币融资交易实体角色识别与知识图谱分析方法研究(72171115, 2021-2025)
+- 主持一项江苏省研究生实践创新计划项目——国家安全管理视域下区块链情报智能分析平台的构建(SJCX22_0009, 2021-2023)[Translation: Principal Investigator (PI) of Jiangsu Province Graduate Practice Innovation Project: "Construction of Blockchain Intelligence Analysis Platform from the Perspective of National Security Management" (SJCX22_0009, 2021–2023)]
+- 参与一项国家自然科学基金面上项目——面向"隐匿-抗毁"的黑灰产加密货币交易网络动态角色识别与最优瓦解分析(72571131, 2026-2029) [Participant in National Natural Science Foundation of China (NSFC) General Program: "Dynamic Role Identification and Optimal Dismantling Analysis of Covert and Resilient Black/Gray Market Cryptocurrency Trading Networks" (72571131, 2026–2029)]
+- 参与一项国家自然科学基金面上项目——恐怖主义数字货币融资交易实体角色识别与知识图谱分析方法研究(72171115, 2021-2025) [Participant in National Natural Science Foundation of China (NSFC) General Program: "Research on Entity Role Identification and Knowledge Graph Analysis Methods for Terrorist Digital Currency Financing Transactions" (72171115, 2021–2025)]
 
 # 💬 Patents
-- [基于用户使用意图感知的推荐方法和电子设备](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)[P] (CN120492740B). 颜嘉麒;柳亚;朱莉;**王佳鑫**;毛谦昂;胡广伟. 2025-09-09
-- [基于超图的引文推荐方法及电子设备](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)[P] (CN120524006A). 颜嘉麒;柳亚;朱莉;**王佳鑫**;毛谦昂;胡广伟. 2025-09-26
+- [基于用户使用意图感知的推荐方法和电子设备](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)[P] (CN120492740B). 颜嘉麒;柳亚;朱莉;**王佳鑫**;毛谦昂;胡广伟. 2025-09-09 [Translation: Recommendation Method and Electronic Device Based on User Usage Intention Perception. Yan, J., Liu, Y., Zhu, L., **Wang, J.**, Mao, Q., & Hu, G. China Patent No. CN120492740B. Published September 9, 2025.]
+- [基于超图的引文推荐方法及电子设备](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)[P] (CN120524006A). 颜嘉麒;柳亚;朱莉;**王佳鑫**;毛谦昂;胡广伟. 2025-09-26 [Citation Recommendation Method and Electronic Device Based on Hypergraph. Yan, J., Liu, Y., Zhu, L., **Wang, J.**, Mao, Q., & Hu, G. China Patent Application No. CN120524006A. Published September 26, 2025.]
 
 # 💬 Services
 - [Journal Reviews:《Journal of Intellectual Capital》(JCR Q1),《IET Blockchain》(EI) Reviewer](https://orcid.org/0000-0002-8432-7902)
