@@ -72,11 +72,11 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 
 - [Targeting the Achilles’ Heel: A GNN Framework for Dismantling Cryptocurrency War-Financing Networks](https://aisel.aisnet.org/icis2024/blockchain/blockchain/6/)[C]. Qian'ang Mao, **Jiaxin Wang**, Jiaqi Yan et al. **International Conference on Information Systems(ICIS 2024, Best Paper Nomination & Best Paper in Track)**.
 
-- [Unravelling Stablecoin-Favored Ecosystem: Extracting, Exploring On-Chain Data from TRON Blockchain](https://doi.org/10.1007/978-981-97-9412-6_21)[C]. Qian’ang Mao, **Jiaxin Wang**, Zhiqi Feng, Jiaqi Yan. **Blockchain and Web3.0 Technology Innovation and Application (BWTAC 2024)**. Communications in Computer and Information Science, vol 2277. Springer, Singapore.
-
 - [Identifying Crypto Addresses with Gambling Behaviors: A Graph Neural Network Approach](https://aisel.aisnet.org/pacis2023/210/)[C]. **Jiaxin Wang**, Qian'ang Mao, Jiaqi Yan et al. **Pacific Asia Conference on Information Systems(PACIS 2023)**, Nanchang, China.
 
 - [Detecting and Characterizing Abnormal Addresses in the Bitcoin Transaction System: A Social Network Approach](https://2022.cswimworkshop.org/wp-content/uploads/2022/08/CSWIM-2022-Proceedings_18-Aug.pdf)[C]. **Jiaxin Wang**, Jiaqi Yan, Qian'ang Mao. **15th China Summer Workshop on Information Management (CSWIM 2022)**, Ningbo, China, 145-150.
+
+- [Unravelling Stablecoin-Favored Ecosystem: Extracting, Exploring On-Chain Data from TRON Blockchain](https://doi.org/10.1007/978-981-97-9412-6_21)[C]. Qian’ang Mao, **Jiaxin Wang**, Zhiqi Feng, Jiaqi Yan. **Blockchain and Web3.0 Technology Innovation and Application (BWTAC 2024)**. Communications in Computer and Information Science, vol 2277. Springer, Singapore.
 
 - [融合多维学术特征的引文推荐：一种基于异质图卷积网络的方法](https://www.xdqb.net/CN/10.3969/j.issn.1008-0821.2025.07.003)[J]. 柳亚,朱莉,毛谦昂,**王佳鑫**等. **现代情报(CSSCI)**,2025,45(7):26-35
 
@@ -103,9 +103,9 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 
 - Demystifying Underground Crypto Financing in International Conflicts: Identification of Key Roles and Transactions with Graph Neural Networks [Oral Presentation]. Qian'ang Mao, **Jiaxin Wang**, Jiaqi Yan et al. **[The 9th International Conference on Smart Finance](https://cbit.cuhk.edu.cn/ICSF/ICSF24/index.html) (ICSF2024, Best Paper in Fintech & Stock Market Track)**
 
-- Unveiling Contributor Roles and Evolution in Bitcoin Open-Source Projects: Insights into the Dynamics of Cryptocurrency Price [Oral Presentation]. Jiaxin Wang, Yuxuan Zhang, Qian'ang Mao, Xiangbin Peng, and Jiaqi Yan. **[The 13th SIG BIT Workshop on Web3 Ecosystems and Artificial Intelligence](https://icis2024.aisconferences.org/events/ancillary-meetings-and-call-for-papers/)**, Bangkok, Thailand.
+- Unveiling Contributor Roles and Evolution in Bitcoin Open-Source Projects: Insights into the Dynamics of Cryptocurrency Price [Oral Presentation]. **Jiaxin Wang**, Yuxuan Zhang, Qian'ang Mao, Xiangbin Peng, and Jiaqi Yan. **[The 13th SIG BIT Workshop on Web3 Ecosystems and Artificial Intelligence](https://icis2024.aisconferences.org/events/ancillary-meetings-and-call-for-papers/)**, Bangkok, Thailand.
 
-- Quantitative Analysis of Open Source Projects for Decentralized AI: An Actor-Network Modeling Approach [Poster Presentation]. Jiaxin Wang, Qi Li, Qian'ang Mao, and Jiaqi Yan. **[The 13th SIG BIT Workshop on Web3 Ecosystems and Artificial Intelligence](https://icis2024.aisconferences.org/events/ancillary-meetings-and-call-for-papers/)**, Bangkok, Thailand.
+- Quantitative Analysis of Open Source Projects for Decentralized AI: An Actor-Network Modeling Approach [Poster Presentation]. **Jiaxin Wang**, Qi Li, Qian'ang Mao, and Jiaqi Yan. **[The 13th SIG BIT Workshop on Web3 Ecosystems and Artificial Intelligence](https://icis2024.aisconferences.org/events/ancillary-meetings-and-call-for-papers/)**, Bangkok, Thailand.
 
 - Detecting Collusion in Play-to-Earn Games: A Case Study of Axie Infinity [Oral Presentation]. Qian'Ang Mao, Cong Ma, **Jiaxin Wang**, Yufei Chen, and Jiaqi Yan. **[The 10th International Conference on Smart Finance](https://sem.tongji.edu.cn/ICSF2025/index.html) (ICSF2025)**
 
