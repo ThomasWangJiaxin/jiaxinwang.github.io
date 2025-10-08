@@ -78,7 +78,9 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 
 - [Unravelling Stablecoin-Favored Ecosystem: Extracting, Exploring On-Chain Data from TRON Blockchain](https://doi.org/10.1007/978-981-97-9412-6_21)[C]. Qian’ang Mao, **Jiaxin Wang**, Zhiqi Feng, Jiaqi Yan. **Blockchain and Web3.0 Technology Innovation and Application (BWTAC 2024)**. Communications in Computer and Information Science, vol 2277. Springer, Singapore.
 
-**[Chinese Papers]:**
+<!-- [Research on UAV Image Recognition Based on Convolutional Neural Network](https://doi.org/10.1109/ICAICA50127.2020.9182686)[C]. Junfei Chen, Kunyi Lu, **Jiaxin Wang**. **2020 IEEE International Conference on Artificial Intelligence and Computer Applications (ICAICA)**, Dalian, China, 2020, pp. 819-823 -->
+
+**[Chinese Papers]**
 
 - [区块链混币监管技术研究综述](https://kns.cnki.net/kcms2/article/abstract?v=of4N6dfUJfzd90cU1oUf-tl3CFyYdpwYulxuZft74gh2ISm4ANrDCX9chrGBsKmrih_RgM-OJZ9qJblsvnHrALMkM5TIzbq4eCspgyGDVqqTNNsus_WVszNy-7nKEIo7AWvDdBgaDadvRQ1bNBoizQ84wUZK2oaNftDc4eWj02N4ng54FakSDw==&uniplatform=NZKPT&language=CHS)[J]. **王佳鑫**,毛谦昂,颜嘉麒等. **计算机工程(CSCD)**,2025,1-19 [Translation: A Review of Blockchain-based Coin Mixing Regulatory Technology[J]. **Jiaxin Wang**, Qian’ang Mao, Jiaqi Yan, et al. **Computer Engineering(CSCD)**,2025,1–19.]
 
@@ -89,8 +91,6 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 - [区块链游戏生态的角色动态识别与演化分析——以Axie Infinity为例](https://www.jas.shu.edu.cn/CN/10.3969/j.issn.0255-8297.2024.04.007)[J]. 刘凯,**王佳鑫**,毛谦昂等. **应用科学学报(CSCD)**,2024,42(04):642-658. [Translation: Dynamic Role Identification and Evolutionary Analysis of Blockchain Game Ecosystems:A Case Study of Axie Infinity[J]. Kai Liu, **Jiaxin Wang**, Qian’ang Mao, et al. **Journal of Applied Sciences(CSCD)**,2024,42(04):642–658.]
 
 - [融合多维学术特征的引文推荐：一种基于异质图卷积网络的方法](https://www.xdqb.net/CN/10.3969/j.issn.1008-0821.2025.07.003)[J]. 柳亚,朱莉,毛谦昂,**王佳鑫**等. **现代情报(CSSCI)**,2025,45(7):26-35 [Translation: Citation Recommendation Integrating Multidimensional Academic Features: A Method Based on Heterogeneous Graph Convolutional Networks[J]. Ya Liu, Li Zhu, Qian’ang Mao, **Jiaxin Wang**, et al. **Journal of Modern Information(CSSCI)**,2025,45(7):26–35.]
-
-<!-- [Research on UAV Image Recognition Based on Convolutional Neural Network](https://doi.org/10.1109/ICAICA50127.2020.9182686)[C]. Junfei Chen, Kunyi Lu, **Jiaxin Wang**. **2020 IEEE International Conference on Artificial Intelligence and Computer Applications (ICAICA)**, Dalian, China, 2020, pp. 819-823 -->
 
 
 # 📝 Working Papers 
@@ -129,7 +129,7 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 - *2021.03 - 2021.05*, **Product Manager Intern**, **ByteDance Infrastructure - Cloud Native - Observability Team**, China.
 
 # 🎖 Awards, Honors, and Scholarships
-**Awards**
+**[Awards]**
 - [第十四届“挑战杯”中国大学生创业计划竞赛全国金奖(“一带一路”国际邀请专项赛)](http://m.cyol.com/gb/articles/2025-01/08/content_lb65xQsWog.html)
 - 第十三届“挑战杯”中国大学生创业计划竞赛全国金奖、省级金奖、校级金奖
 - 第六届中国国际“互联网+”创新创业大赛全国银奖、省级金奖、校级金奖
@@ -148,7 +148,7 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 - 2020年上海市大学生计算机应用能力大赛三等奖
 - 2019年东华大学数学建模竞赛一等奖
 
-**Honors**
+**[Honors]**
 - 上海市优秀毕业生(2021)
 - 南京大学优秀研究生党员(2024)
 - 南京大学优秀研究生标兵(2022)
@@ -164,7 +164,7 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 - 东华大学优秀共青团员
 - 东华大学优秀共青团学干部
 
-**Scholarship**
+**[Scholarship]**
 - 本科生国家奖学金(2020)
 - 南京大学栋梁优秀奖学金——自主创业奖(2024)
 - 南京大学-中国光谷奖学金(2023)
