@@ -88,7 +88,7 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 
 - [Detecting and Characterizing Abnormal Addresses in the Bitcoin Transaction System: A Social Network Approach](https://2022.cswimworkshop.org/wp-content/uploads/2022/08/CSWIM-2022-Proceedings_18-Aug.pdf)[C]. **Jiaxin Wang**, Jiaqi Yan, Qian'ang Mao. **15th China Summer Workshop on Information Management (CSWIM 2022)**, Ningbo, China, 145-150.
 
-- [Research on UAV Image Recognition Based on Convolutional Neural Network](https://doi.org/10.1109/ICAICA50127.2020.9182686)[C]. Junfei Chen, Kunyi Lu, **Jiaxin Wang**. **2020 IEEE International Conference on Artificial Intelligence and Computer Applications (ICAICA)**, Dalian, China, 2020, pp. 819-823
+<!-- [Research on UAV Image Recognition Based on Convolutional Neural Network](https://doi.org/10.1109/ICAICA50127.2020.9182686)[C]. Junfei Chen, Kunyi Lu, **Jiaxin Wang**. **2020 IEEE International Conference on Artificial Intelligence and Computer Applications (ICAICA)**, Dalian, China, 2020, pp. 819-823 -->
 
 
 # 📝 Working Papers 
@@ -103,7 +103,7 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 
 - Demystifying Underground Crypto Financing in International Conflicts: Identification of Key Roles and Transactions with Graph Neural Networks[Oral Presentation]. Qian'ang Mao, **Jiaxin Wang**, Jiaqi Yan et al. **[The 9th International Conference on Smart Finance](https://cbit.cuhk.edu.cn/ICSF/ICSF24/index.html) (ICSF2024, Best Paper in Fintech & Stock Market Track)**
 
-- Unveiling Contributor Roles and Evolution in Bitcoin Open-Source Projects: Insights into the Dynamics of Cryptocurrency Price[Oral Presentation]. Jiaxin Wang, Yuxuan Zhang, Qian'ang Mao, Xiangbin Peng, and Jiaqi Yan. **]The 13th SIGBIT Workshop on Web3 Ecosystems and Artificial Intelligence](https://2024.sigbit.org/)**, Bangkok, Thailand.
+- Unveiling Contributor Roles and Evolution in Bitcoin Open-Source Projects: Insights into the Dynamics of Cryptocurrency Price[Oral Presentation]. Jiaxin Wang, Yuxuan Zhang, Qian'ang Mao, Xiangbin Peng, and Jiaqi Yan. **[The 13th SIGBIT Workshop on Web3 Ecosystems and Artificial Intelligence](https://2024.sigbit.org/)**, Bangkok, Thailand.
 
 - Quantitative Analysis of Open Source Projects for Decentralized AI: An Actor-Network Modeling Approach[Poster Presentation]. Jiaxin Wang, Qi Li, Qian'ang Mao, and Jiaqi Yan. **[The 13th SIGBIT Workshop on Web3 Ecosystems and Artificial Intelligence](https://2024.sigbit.org/)**, Bangkok, Thailand.
 
