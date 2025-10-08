@@ -66,9 +66,9 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 </div>
 </div>
 
-- [Behind the scenes in metaverses: exploring undercover role cooperations with cryptocurrency transactions through an intellectual capital lens](https://www.emerald.com/jic/article-abstract/doi/10.1108/JIC-03-2025-0068/1301129/Behind-the-scenes-in-metaverses-exploring?redirectedFrom=fulltext)[J]. **Jiaxin Wang**, Qian'ang Mao, Jiaqi Yan. **Journal of Intellectual Capital (JCR Q1, ABS 2, ABDC B)**
+- [Behind the scenes in metaverses: exploring undercover role cooperations with cryptocurrency transactions through an intellectual capital lens](https://www.emerald.com/jic/article-abstract/doi/10.1108/JIC-03-2025-0068/1301129/Behind-the-scenes-in-metaverses-exploring?redirectedFrom=fulltext)[J]. **Jiaxin Wang**, Qian'ang Mao, Jiaqi Yan. **Journal of Intellectual Capital (JCR Q1, ABS 2, ABDC B)**.
 
-- [Smoke and mirrors: Uncovering hidden delegatees within crypto gambling ecosystems](https://scholarspace.manoa.hawaii.edu/items/f01d09b1-10f5-4e4f-b72c-431709ab9320)[C]. **Jiaxin Wang**, Qian'ang Mao, Hongliang Sun, Jiaqi Yan, Yani Shi. **Proceedings of the 58th Hawaii International Conference on System Sciences (HICSS-58, *Best Paper Nomination*)**
+- [Smoke and mirrors: Uncovering hidden delegatees within crypto gambling ecosystems](https://scholarspace.manoa.hawaii.edu/items/f01d09b1-10f5-4e4f-b72c-431709ab9320)[C]. **Jiaxin Wang**, Qian'ang Mao, Hongliang Sun, Jiaqi Yan, Yani Shi. **Proceedings of the 58th Hawaii International Conference on System Sciences (HICSS-58, *Best Paper Nomination*)**.
 
 - [Targeting the Achilles’ Heel: A GNN Framework for Dismantling Cryptocurrency War-Financing Networks](https://aisel.aisnet.org/icis2024/blockchain/blockchain/6/)[C]. Qian'ang Mao, **Jiaxin Wang**, Jiaqi Yan et al. **International Conference on Information Systems(ICIS 2024, *Best Paper Nomination & Best Paper in Track*)**.
 
@@ -82,25 +82,15 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 
 **[Chinese Papers]**
 
-- [区块链混币监管技术研究综述](https://kns.cnki.net/kcms2/article/abstract?v=of4N6dfUJfzd90cU1oUf-tl3CFyYdpwYulxuZft74gh2ISm4ANrDCX9chrGBsKmrih_RgM-OJZ9qJblsvnHrALMkM5TIzbq4eCspgyGDVqqTNNsus_WVszNy-7nKEIo7AWvDdBgaDadvRQ1bNBoizQ84wUZK2oaNftDc4eWj02N4ng54FakSDw==&uniplatform=NZKPT&language=CHS)[J]. **王佳鑫**,毛谦昂,颜嘉麒等. **计算机工程(CSCD)**,2025,1-19
+- [区块链混币监管技术研究综述](https://kns.cnki.net/kcms2/article/abstract?v=of4N6dfUJfzd90cU1oUf-tl3CFyYdpwYulxuZft74gh2ISm4ANrDCX9chrGBsKmrih_RgM-OJZ9qJblsvnHrALMkM5TIzbq4eCspgyGDVqqTNNsus_WVszNy-7nKEIo7AWvDdBgaDadvRQ1bNBoizQ84wUZK2oaNftDc4eWj02N4ng54FakSDw==&uniplatform=NZKPT&language=CHS)[J]. **王佳鑫**,毛谦昂,颜嘉麒等. **计算机工程(CSCD)**,2025,1-19. [*Translation: A Review of Blockchain-based Coin Mixing Regulatory Technology[J]. **Jiaxin Wang**, Qian’ang Mao, Jiaqi Yan, et al. **Computer Engineering(CSCD)**,2025,1–19.*]
 
-[*Translation: A Review of Blockchain-based Coin Mixing Regulatory Technology[J]. **Jiaxin Wang**, Qian’ang Mao, Jiaqi Yan, et al. **Computer Engineering(CSCD)**,2025,1–19.*]
+- [加密数字货币监管技术研究综述](https://www.joca.cn/CN/10.11772/j.issn.1001-9081.2022111694)[J]. **王佳鑫**,颜嘉麒,毛谦昂. **计算机应用(CSCD)**,2023,43(10):2983-2995. [*Translation: Overview of cryptocurrency regulatory technologies research[J]. **Jiaxin Wang**, Jiaqi Yan, Qian’ang Mao. **Journal of Computer Applications(CSCD)**,2023,43(10):2983–2995.*]
 
-- [加密数字货币监管技术研究综述](https://www.joca.cn/CN/10.11772/j.issn.1001-9081.2022111694)[J]. **王佳鑫**,颜嘉麒,毛谦昂. **计算机应用(CSCD)**,2023,43(10):2983-2995.
+- [加密数字货币恐怖融资监管：交易模式分析与异常实体识别](https://dik.whu.edu.cn/jwk3/tsqbzs/CN/10.13366/j.dik.2022.06.055)[J]. 颜嘉麒,**王佳鑫(通讯)**,毛谦昂等. **图书情报知识(CSSCI,社科基金资助期刊)**,2022,39(6):55-66. [*Translation: Cryptocurrency Terrorist Financing Regulation: Transaction Pattern Analysis and Abnormal Entity Identification[J]. Jiaqi Yan, **Jiaxin Wang(Corresponding)**, Qian’ang Mao, et al. **Documentation, Information & Knowledge(CSSCI, National Social Science Foundation Journal)**,2022,39(6):55–66.*]
 
-[*Translation: Overview of cryptocurrency regulatory technologies research[J]. **Jiaxin Wang**, Jiaqi Yan, Qian’ang Mao. **Journal of Computer Applications(CSCD)**,2023,43(10):2983–2995.*]
+- [区块链游戏生态的角色动态识别与演化分析——以Axie Infinity为例](https://www.jas.shu.edu.cn/CN/10.3969/j.issn.0255-8297.2024.04.007)[J]. 刘凯,**王佳鑫**,毛谦昂等. **应用科学学报(CSCD)**,2024,42(04):642-658. [*Translation: Dynamic Role Identification and Evolutionary Analysis of Blockchain Game Ecosystems: A Case Study of Axie Infinity[J]. Kai Liu, **Jiaxin Wang**, Qian’ang Mao, et al. **Journal of Applied Sciences(CSCD)**,2024,42(04):642–658.*]
 
-- [加密数字货币恐怖融资监管：交易模式分析与异常实体识别](https://dik.whu.edu.cn/jwk3/tsqbzs/CN/10.13366/j.dik.2022.06.055)[J]. 颜嘉麒,**王佳鑫(通讯)**,毛谦昂等. **图书情报知识(CSSCI,社科基金资助期刊)**,2022,39(6):55-66
-
-[*Translation: Cryptocurrency Terrorist Financing Regulation: Transaction Pattern Analysis and Abnormal Entity Identification[J]. Jiaqi Yan, **Jiaxin Wang(Corresponding)**, Qian’ang Mao, et al. **Documentation, Information & Knowledge(CSSCI, National Social Science Foundation Journal)**,2022,39(6):55–66.*]
-
-- [区块链游戏生态的角色动态识别与演化分析——以Axie Infinity为例](https://www.jas.shu.edu.cn/CN/10.3969/j.issn.0255-8297.2024.04.007)[J]. 刘凯,**王佳鑫**,毛谦昂等. **应用科学学报(CSCD)**,2024,42(04):642-658.
-
-[*Translation: Dynamic Role Identification and Evolutionary Analysis of Blockchain Game Ecosystems: A Case Study of Axie Infinity[J]. Kai Liu, **Jiaxin Wang**, Qian’ang Mao, et al. **Journal of Applied Sciences(CSCD)**,2024,42(04):642–658.*]
-
-- [融合多维学术特征的引文推荐：一种基于异质图卷积网络的方法](https://www.xdqb.net/CN/10.3969/j.issn.1008-0821.2025.07.003)[J]. 柳亚,朱莉,毛谦昂,**王佳鑫**等. **现代情报(CSSCI)**,2025,45(7):26-35
-
-[*Translation: Citation Recommendation Integrating Multidimensional Academic Features: A Method Based on Heterogeneous Graph Convolutional Networks[J]. Ya Liu, Li Zhu, Qian’ang Mao, **Jiaxin Wang**, et al. **Journal of Modern Information(CSSCI)**,2025,45(7):26–35.*]
+- [融合多维学术特征的引文推荐：一种基于异质图卷积网络的方法](https://www.xdqb.net/CN/10.3969/j.issn.1008-0821.2025.07.003)[J]. 柳亚,朱莉,毛谦昂,**王佳鑫**等. **现代情报(CSSCI)**,2025,45(7):26-35. [*Translation: Citation Recommendation Integrating Multidimensional Academic Features: A Method Based on Heterogeneous Graph Convolutional Networks[J]. Ya Liu, Li Zhu, Qian’ang Mao, **Jiaxin Wang**, et al. **Journal of Modern Information(CSSCI)**,2025,45(7):26–35.*]
 
 
 # 📝 Working Papers 
@@ -122,26 +112,16 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 - Detecting Collusion in Play-to-Earn Games: A Case Study of Axie Infinity [*Oral Presentation*]. Qian'ang Mao, Cong Ma, **Jiaxin Wang**, Yufei Chen, and Jiaqi Yan. **[The 10th International Conference on Smart Finance](https://sem.tongji.edu.cn/ICSF2025/index.html) (ICSF2025)**
 
 # 🔥 Projects
-- 主持一项江苏省研究生实践创新计划项目——国家安全管理视域下区块链情报智能分析平台的构建 (No. SJCX22_0009, 2021-2023)
+- 主持一项江苏省研究生实践创新计划项目——国家安全管理视域下区块链情报智能分析平台的构建 (No. SJCX22_0009, 2021-2023). [*Translation: Principal Investigator (PI) of Jiangsu Province Graduate Practice Innovation Project: "Construction of Blockchain Intelligence Analysis Platform from the Perspective of National Security Management" (No. SJCX22_0009, 2021–2023)*]
 
-[*Translation: Principal Investigator (PI) of Jiangsu Province Graduate Practice Innovation Project: "Construction of Blockchain Intelligence Analysis Platform from the Perspective of National Security Management" (No. SJCX22_0009, 2021–2023)*]
+- 参与一项国家自然科学基金面上项目——面向"隐匿-抗毁"的黑灰产加密货币交易网络动态角色识别与最优瓦解分析 (No. 72571131, 2026-2029). [*Translation: Participant in National Natural Science Foundation of China (NSFC) General Program: "Dynamic Role Identification and Optimal Dismantling Analysis of Covert and Resilient Black/Gray Market Cryptocurrency Trading Networks" (No. 72571131, 2026–2029)*]
 
-- 参与一项国家自然科学基金面上项目——面向"隐匿-抗毁"的黑灰产加密货币交易网络动态角色识别与最优瓦解分析 (No. 72571131, 2026-2029)
-
-[*Translation: Participant in National Natural Science Foundation of China (NSFC) General Program: "Dynamic Role Identification and Optimal Dismantling Analysis of Covert and Resilient Black/Gray Market Cryptocurrency Trading Networks" (No. 72571131, 2026–2029)*]
-
-- 参与一项国家自然科学基金面上项目——恐怖主义数字货币融资交易实体角色识别与知识图谱分析方法研究 (No. 72171115, 2021-2025)
-
-[*Translation: Participant in National Natural Science Foundation of China (NSFC) General Program: "Research on Entity Role Identification and Knowledge Graph Analysis Methods for Terrorist Digital Currency Financing Transactions" (No. 72171115, 2021–2025)*]
+- 参与一项国家自然科学基金面上项目——恐怖主义数字货币融资交易实体角色识别与知识图谱分析方法研究 (No. 72171115, 2021-2025). [*Translation: Participant in National Natural Science Foundation of China (NSFC) General Program: "Research on Entity Role Identification and Knowledge Graph Analysis Methods for Terrorist Digital Currency Financing Transactions" (No. 72171115, 2021–2025)*]
 
 # 💬 Patents
-- [基于用户使用意图感知的推荐方法和电子设备](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)[P] (No. CN120492740B). 颜嘉麒;柳亚;朱莉;**王佳鑫**;毛谦昂;胡广伟. 2025-09-09
+- [基于用户使用意图感知的推荐方法和电子设备](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)[P] (No. CN120492740B). 颜嘉麒;柳亚;朱莉;**王佳鑫**;毛谦昂;胡广伟. 2025-09-09. [*Translation: Recommendation Method and Electronic Device Based on User Usage Intention Perception. Jiaqi Yan, Ya Liu, Li Zhu, **Jiaxin Wang**, Qian’ang Mao, Guangwei Hu. China Patent No. CN120492740B. Published September 9, 2025.*]
 
-[*Translation: Recommendation Method and Electronic Device Based on User Usage Intention Perception. Jiaqi Yan, Ya Liu, Li Zhu, **Jiaxin Wang**, Qian’ang Mao, Guangwei Hu. China Patent No. CN120492740B. Published September 9, 2025.*]
-
-- [基于超图的引文推荐方法及电子设备](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)[P] (No. CN120524006A). 颜嘉麒;柳亚;朱莉;**王佳鑫**;毛谦昂;胡广伟. 2025-09-26
-
-[*Translation: Citation Recommendation Method and Electronic Device Based on Hypergraph. Yan, J., Liu, Jiaqi Yan, Ya Liu, Li Zhu, **Jiaxin Wang**, Qian’ang Mao, Guangwei Hu. China Patent No. CN120524006A. Published September 26, 2025.*]
+- [基于超图的引文推荐方法及电子设备](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)[P] (No. CN120524006A). 颜嘉麒;柳亚;朱莉;**王佳鑫**;毛谦昂;胡广伟. 2025-09-26. [*Translation: Citation Recommendation Method and Electronic Device Based on Hypergraph. Yan, J., Liu, Jiaqi Yan, Ya Liu, Li Zhu, **Jiaxin Wang**, Qian’ang Mao, Guangwei Hu. China Patent No. CN120524006A. Published September 26, 2025.*]
 
 # 💬 Services
 - [Journal Reviews:《Journal of Intellectual Capital》(JCR Q1),《IET Blockchain》(EI) Reviewer](https://orcid.org/0000-0002-8432-7902)
