@@ -78,13 +78,13 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 
 - [Unravelling Stablecoin-Favored Ecosystem: Extracting, Exploring On-Chain Data from TRON Blockchain](https://doi.org/10.1007/978-981-97-9412-6_21)[C]. Qian’ang Mao, **Jiaxin Wang**, Zhiqi Feng, Jiaqi Yan. **Blockchain and Web3.0 Technology Innovation and Application (BWTAC 2024)**. Communications in Computer and Information Science, vol 2277. Springer, Singapore.
 
-- [区块链游戏生态的角色动态识别与演化分析——以Axie Infinity为](https://www.jas.shu.edu.cn/CN/10.3969/j.issn.0255-8297.2024.04.007)[J]. 刘凯,**王佳鑫**,毛谦昂等. **应用科学学报(CSCD)**,2024,42(04):642-658.
+- [区块链游戏生态的角色动态识别与演化分析——以Axie Infinity为例](https://www.jas.shu.edu.cn/CN/10.3969/j.issn.0255-8297.2024.04.007)[J]. 刘凯,**王佳鑫**,毛谦昂等. **应用科学学报(CSCD)**,2024,42(04):642-658.
 
 - [Identifying Crypto Addresses with Gambling Behaviors: A Graph Neural Network Approach](https://aisel.aisnet.org/pacis2023/210/)[C]. **Jiaxin Wang**, Qian'ang Mao, Jiaqi Yan et al. **Pacific Asia Conference on Information Systems(PACIS 2023)**, Nanchang, China.
 
 - [加密数字货币监管技术研究综述](https://www.joca.cn/CN/10.11772/j.issn.1001-9081.2022111694)[J]. **王佳鑫**,颜嘉麒,毛谦昂. **计算机应用(CSCD)**,2023,43(10):2983-2995.
 
-- [加密数字货币恐怖融资监管：交易模式分析与异常实体识别，](https://dik.whu.edu.cn/jwk3/tsqbzs/CN/10.13366/j.dik.2022.06.055)[J]. 颜嘉麒,**王佳鑫***,毛谦昂等. **图书情报知识(CSSCI,社科基金资助期刊)**,2022,39(6):55-66
+- [加密数字货币恐怖融资监管：交易模式分析与异常实体识别](https://dik.whu.edu.cn/jwk3/tsqbzs/CN/10.13366/j.dik.2022.06.055)[J]. 颜嘉麒,**王佳鑫***,毛谦昂等. **图书情报知识(CSSCI,社科基金资助期刊)**,2022,39(6):55-66
 
 - [Detecting and Characterizing Abnormal Addresses in the Bitcoin Transaction System: A Social Network Approach](https://2022.cswimworkshop.org/wp-content/uploads/2022/08/CSWIM-2022-Proceedings_18-Aug.pdf)[C]. **Jiaxin Wang**, Jiaqi Yan, Qian'ang Mao. **15th China Summer Workshop on Information Management (CSWIM 2022)**, Ningbo, China, 145-150.
 
@@ -99,24 +99,24 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 
 # 📝 Presentation 
 
-- Smoke and mirrors: Uncovering hidden delegatees within crypto gambling ecosystems[Oral Presentation]. **Jiaxin Wang**, Qian'ang Mao, Hongliang Sun, Jiaqi Yan. **[The 9th International Conference on Smart Finance](https://cbit.cuhk.edu.cn/ICSF/ICSF24/index.html) (ICSF2024, Best Paper in NFT & Blockchain Track)**
+- Smoke and mirrors: Uncovering hidden delegatees within crypto gambling ecosystems [Oral Presentation]. **Jiaxin Wang**, Qian'ang Mao, Hongliang Sun, Jiaqi Yan. **[The 9th International Conference on Smart Finance](https://cbit.cuhk.edu.cn/ICSF/ICSF24/index.html) (ICSF2024, Best Paper in NFT & Blockchain Track)**
 
-- Demystifying Underground Crypto Financing in International Conflicts: Identification of Key Roles and Transactions with Graph Neural Networks[Oral Presentation]. Qian'ang Mao, **Jiaxin Wang**, Jiaqi Yan et al. **[The 9th International Conference on Smart Finance](https://cbit.cuhk.edu.cn/ICSF/ICSF24/index.html) (ICSF2024, Best Paper in Fintech & Stock Market Track)**
+- Demystifying Underground Crypto Financing in International Conflicts: Identification of Key Roles and Transactions with Graph Neural Networks [Oral Presentation]. Qian'ang Mao, **Jiaxin Wang**, Jiaqi Yan et al. **[The 9th International Conference on Smart Finance](https://cbit.cuhk.edu.cn/ICSF/ICSF24/index.html) (ICSF2024, Best Paper in Fintech & Stock Market Track)**
 
-- Unveiling Contributor Roles and Evolution in Bitcoin Open-Source Projects: Insights into the Dynamics of Cryptocurrency Price[Oral Presentation]. Jiaxin Wang, Yuxuan Zhang, Qian'ang Mao, Xiangbin Peng, and Jiaqi Yan. **[The 13th SIGBIT Workshop on Web3 Ecosystems and Artificial Intelligence](https://2024.sigbit.org/)**, Bangkok, Thailand.
+- Unveiling Contributor Roles and Evolution in Bitcoin Open-Source Projects: Insights into the Dynamics of Cryptocurrency Price [Oral Presentation]. Jiaxin Wang, Yuxuan Zhang, Qian'ang Mao, Xiangbin Peng, and Jiaqi Yan. **[The 13th SIGBIT Workshop on Web3 Ecosystems and Artificial Intelligence](https://2024.sigbit.org/)**, Bangkok, Thailand.
 
-- Quantitative Analysis of Open Source Projects for Decentralized AI: An Actor-Network Modeling Approach[Poster Presentation]. Jiaxin Wang, Qi Li, Qian'ang Mao, and Jiaqi Yan. **[The 13th SIGBIT Workshop on Web3 Ecosystems and Artificial Intelligence](https://2024.sigbit.org/)**, Bangkok, Thailand.
+- Quantitative Analysis of Open Source Projects for Decentralized AI: An Actor-Network Modeling Approach [Poster Presentation]. Jiaxin Wang, Qi Li, Qian'ang Mao, and Jiaqi Yan. **[The 13th SIGBIT Workshop on Web3 Ecosystems and Artificial Intelligence](https://2024.sigbit.org/)**, Bangkok, Thailand.
 
-- Detecting Collusion in Play-to-Earn Games: A Case Study of Axie Infinity[Oral Presentation]. Qian'Ang Mao, Cong Ma, **Jiaxin Wang**, Yufei Chen, and Jiaqi Yan. **[The 10th International Conference on Smart Finance](https://sem.tongji.edu.cn/ICSF2025/index.html) (ICSF2025)**
+- Detecting Collusion in Play-to-Earn Games: A Case Study of Axie Infinity [Oral Presentation]. Qian'Ang Mao, Cong Ma, **Jiaxin Wang**, Yufei Chen, and Jiaqi Yan. **[The 10th International Conference on Smart Finance](https://sem.tongji.edu.cn/ICSF2025/index.html) (ICSF2025)**
 
 # 🔥 Projects
-- 主持一项江苏省研究生实践创新计划项目——国家安全管理视域下区块链情报智能分析平台的构建(SJCX22_0009, 2021-2023)[Principal Investigator (PI) of Jiangsu Province Graduate Practice Innovation Project: "Construction of Blockchain Intelligence Analysis Platform from the Perspective of National Security Management" (SJCX22_0009, 2021–2023)]
-- 参与一项国家自然科学基金面上项目——面向"隐匿-抗毁"的黑灰产加密货币交易网络动态角色识别与最优瓦解分析(72571131, 2026-2029) [Participant in National Natural Science Foundation of China (NSFC) General Program: "Dynamic Role Identification and Optimal Dismantling Analysis of Covert and Resilient Black/Gray Market Cryptocurrency Trading Networks" (72571131, 2026–2029)]
-- 参与一项国家自然科学基金面上项目——恐怖主义数字货币融资交易实体角色识别与知识图谱分析方法研究(72171115, 2021-2025) [Participant in National Natural Science Foundation of China (NSFC) General Program: "Research on Entity Role Identification and Knowledge Graph Analysis Methods for Terrorist Digital Currency Financing Transactions" (72171115, 2021–2025)]
+- 主持一项江苏省研究生实践创新计划项目——国家安全管理视域下区块链情报智能分析平台的构建(No. SJCX22_0009, 2021-2023)[Principal Investigator (PI) of Jiangsu Province Graduate Practice Innovation Project: "Construction of Blockchain Intelligence Analysis Platform from the Perspective of National Security Management" (SJCX22_0009, 2021–2023)]
+- 参与一项国家自然科学基金面上项目——面向"隐匿-抗毁"的黑灰产加密货币交易网络动态角色识别与最优瓦解分析(No. 72571131, 2026-2029) [Participant in National Natural Science Foundation of China (NSFC) General Program: "Dynamic Role Identification and Optimal Dismantling Analysis of Covert and Resilient Black/Gray Market Cryptocurrency Trading Networks" (72571131, 2026–2029)]
+- 参与一项国家自然科学基金面上项目——恐怖主义数字货币融资交易实体角色识别与知识图谱分析方法研究(No. 72171115, 2021-2025) [Participant in National Natural Science Foundation of China (NSFC) General Program: "Research on Entity Role Identification and Knowledge Graph Analysis Methods for Terrorist Digital Currency Financing Transactions" (72171115, 2021–2025)]
 
 # 💬 Patents
-- [基于用户使用意图感知的推荐方法和电子设备](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)[P] (CN120492740B). 颜嘉麒;柳亚;朱莉;**王佳鑫**;毛谦昂;胡广伟. 2025-09-09 [Translation: Recommendation Method and Electronic Device Based on User Usage Intention Perception. Yan, J., Liu, Y., Zhu, L., **Wang, J.**, Mao, Q., & Hu, G. China Patent No. CN120492740B. Published September 9, 2025.]
-- [基于超图的引文推荐方法及电子设备](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)[P] (CN120524006A). 颜嘉麒;柳亚;朱莉;**王佳鑫**;毛谦昂;胡广伟. 2025-09-26 [Citation Recommendation Method and Electronic Device Based on Hypergraph. Yan, J., Liu, Y., Zhu, L., **Wang, J.**, Mao, Q., & Hu, G. China Patent No. CN120524006A. Published September 26, 2025.]
+- [基于用户使用意图感知的推荐方法和电子设备](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)[P] (No. CN120492740B). 颜嘉麒;柳亚;朱莉;**王佳鑫**;毛谦昂;胡广伟. 2025-09-09 [Translation: Recommendation Method and Electronic Device Based on User Usage Intention Perception. Yan, J., Liu, Y., Zhu, L., **Wang, J.**, Mao, Q., & Hu, G. China Patent No. CN120492740B. Published September 9, 2025.]
+- [基于超图的引文推荐方法及电子设备](https://pss-system.cponline.cnipa.gov.cn/documents/detail?prevPageTit=changgui)[P] (No. CN120524006A). 颜嘉麒;柳亚;朱莉;**王佳鑫**;毛谦昂;胡广伟. 2025-09-26 [Citation Recommendation Method and Electronic Device Based on Hypergraph. Yan, J., Liu, Y., Zhu, L., **Wang, J.**, Mao, Q., & Hu, G. China Patent No. CN120524006A. Published September 26, 2025.]
 
 # 💬 Services
 - [Journal Reviews:《Journal of Intellectual Capital》(JCR Q1),《IET Blockchain》(EI) Reviewer](https://orcid.org/0000-0002-8432-7902)
