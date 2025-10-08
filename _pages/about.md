@@ -56,7 +56,7 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 
 **[The Web Conference'25 (WWW'25, CCF-A)]**
 
-[[Code]](https://github.com/njublockchain/crypto-casino-delegatee-mining) [[Paper]](https://dl.acm.org/doi/abs/10.1145/3696410.3714689) [[Oral Presentation]]([https://github.com/njublockchain/crypto-casino-delegatee-mining](https://github.com/njublockchain/crypto-casino-delegatee-mining/blob/WWW/WWW2025%20Oral%20Presentation.pdf))
+[[Code]](https://github.com/njublockchain/crypto-casino-delegatee-mining) [[Paper]](https://dl.acm.org/doi/abs/10.1145/3696410.3714689) [[Oral Presentation]](https://github.com/njublockchain/crypto-casino-delegatee-mining/blob/WWW/WWW2025%20Oral%20Presentation.pdf)
 
 **Keywords**: Crypto gambling, anonymity, security, delegatees, role identification, graph neural networks, structural entropy
 
@@ -103,9 +103,9 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 
 - Demystifying Underground Crypto Financing in International Conflicts: Identification of Key Roles and Transactions with Graph Neural Networks[Oral Presentation]. Qian'ang Mao, **Jiaxin Wang**, Jiaqi Yan et al. **[The 9th International Conference on Smart Finance](https://cbit.cuhk.edu.cn/ICSF/ICSF24/index.html) (ICSF2024, Best Paper in Fintech & Stock Market Track)**
 
-- Unveiling Contributor Roles and Evolution in Bitcoin Open-Source Projects: Insights into the Dynamics of Cryptocurrency Price[Oral Presentation]. Jiaxin Wang, Yuxuan Zhang, Qian'ang Mao, Xiangbin Peng, and Jiaqi Yan. **The 13th SIGBIT Workshop on Web3 Ecosystems and Artificial Intelligence(https://2024.sigbit.org/)**, Bangkok, Thailand.
+- Unveiling Contributor Roles and Evolution in Bitcoin Open-Source Projects: Insights into the Dynamics of Cryptocurrency Price[Oral Presentation]. Jiaxin Wang, Yuxuan Zhang, Qian'ang Mao, Xiangbin Peng, and Jiaqi Yan. **]The 13th SIGBIT Workshop on Web3 Ecosystems and Artificial Intelligence](https://2024.sigbit.org/)**, Bangkok, Thailand.
 
-- Quantitative Analysis of Open Source Projects for Decentralized AI: An Actor-Network Modeling Approach[Poster Presentation]. Jiaxin Wang, Qi Li, Qian'ang Mao, and Jiaqi Yan. **The 13th SIGBIT Workshop on Web3 Ecosystems and Artificial Intelligence(https://2024.sigbit.org/)**, Bangkok, Thailand.
+- Quantitative Analysis of Open Source Projects for Decentralized AI: An Actor-Network Modeling Approach[Poster Presentation]. Jiaxin Wang, Qi Li, Qian'ang Mao, and Jiaqi Yan. **[The 13th SIGBIT Workshop on Web3 Ecosystems and Artificial Intelligence](https://2024.sigbit.org/)**, Bangkok, Thailand.
 
 - Detecting Collusion in Play-to-Earn Games: A Case Study of Axie Infinity[Oral Presentation]. Qian'Ang Mao, Cong Ma, **Jiaxin Wang**, Yufei Chen, and Jiaqi Yan. **[The 10th International Conference on Smart Finance](https://sem.tongji.edu.cn/ICSF2025/index.html) (ICSF2025)**
 
