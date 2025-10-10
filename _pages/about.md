@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Jiaxin Wang is a Ph.D. candidate (in a continuous Master-to-Ph.D. program) in Information Resource Management at Nanjing University. He holds a Bachelor of Management degree in Information Management and Information Systems from Donghua University.
+Jiaxin Wang is a Ph.D. candidate in Information Resource Management at Nanjing University. He holds a Bachelor of Management degree in Information Management and Information Systems from Donghua University.
 
 My research mainly focuses on blockchain, spanning the fields of **Information Systems (IS), Software Engineering (SE), and Computer Science (CS)**. Specifically, my work centers on the following three directions:
 
@@ -42,7 +42,7 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=Vm54jdoAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=Vm54jdoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 📖 Educations
-- *2021.09 - Now*, Ph.D Candidate (Master–Ph.D. Integrated Program), Nanjing University, Information Resource Management.
+- *2021.09 - Now*, Ph.D Candidate, Nanjing University, Information Resource Management.
 - *2017.09 - 2021.06*, Bachelor, Donghua University, Information Management and Information Systems. 
 
 # 📝 Publications 
