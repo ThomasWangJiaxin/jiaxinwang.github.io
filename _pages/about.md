@@ -160,7 +160,7 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 - 南京大学信息管理学院优秀共青团员(2022)
 - 南京大学2022年暑期社会实践“十佳团队”、特别专项立项(集体,2022)
 - 南京大学2022年度“最佳党日活动”(支部书记,2023)
-- 东华大学学生年度人物(2020)
+- [东华大学学生年度人物(2020)](https://news.dhu.edu.cn/_t317/2021/0311/c6411a226281/page.psp)
 - 东华大学优秀学生标兵
 - 东华大学优秀学生
 - 东华大学优秀学生干部
