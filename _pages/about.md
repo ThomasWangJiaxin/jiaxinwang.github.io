@@ -54,7 +54,7 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 
 **Jiaxin Wang**, Qian'ang Mao, Hongliang Sun, Jiaqi Yan
 
-**[The Web Conference'25 (WWW'25, CCF-A)]**
+**[The Web Conference'25 (WWW'25, CCF-A, Core A+)]**
 
 [[*Code*]](https://github.com/njublockchain/crypto-casino-delegatee-mining) [[*Paper*]](https://dl.acm.org/doi/abs/10.1145/3696410.3714689) [[*Oral Presentation*]](https://github.com/njublockchain/crypto-casino-delegatee-mining/blob/WWW/WWW2025%20Oral%20Presentation.pdf)
 
@@ -68,11 +68,11 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 
 - [Behind the scenes in metaverses: exploring undercover role cooperations with cryptocurrency transactions through an intellectual capital lens](https://www.emerald.com/jic/article-abstract/doi/10.1108/JIC-03-2025-0068/1301129/Behind-the-scenes-in-metaverses-exploring?redirectedFrom=fulltext)[J]. **Jiaxin Wang**, Qian'ang Mao, Jiaqi Yan. **Journal of Intellectual Capital (JCR Q1, ABS 2, ABDC B)**.
 
-- [Smoke and mirrors: Uncovering hidden delegatees within crypto gambling ecosystems](https://scholarspace.manoa.hawaii.edu/items/f01d09b1-10f5-4e4f-b72c-431709ab9320)[C]. **Jiaxin Wang**, Qian'ang Mao, Hongliang Sun, Jiaqi Yan, Yani Shi. **Proceedings of the 58th Hawaii International Conference on System Sciences (HICSS-58, *Best Paper Nomination*)**.
+- [Smoke and mirrors: Uncovering hidden delegatees within crypto gambling ecosystems](https://scholarspace.manoa.hawaii.edu/items/f01d09b1-10f5-4e4f-b72c-431709ab9320)[C]. **Jiaxin Wang**, Qian'ang Mao, Hongliang Sun, Jiaqi Yan, Yani Shi. **Proceedings of the 58th Hawaii International Conference on System Sciences (HICSS-58, Core B, *Best Paper Nomination*)**.
 
-- [Targeting the Achilles’ Heel: A GNN Framework for Dismantling Cryptocurrency War-Financing Networks](https://aisel.aisnet.org/icis2024/blockchain/blockchain/6/)[C]. Qian'ang Mao, **Jiaxin Wang**, Jiaqi Yan et al. **International Conference on Information Systems(ICIS 2024, *Best Paper Nomination & Best Paper in Track*)**.
+- [Targeting the Achilles’ Heel: A GNN Framework for Dismantling Cryptocurrency War-Financing Networks](https://aisel.aisnet.org/icis2024/blockchain/blockchain/6/)[C]. Qian'ang Mao, **Jiaxin Wang**, Jiaqi Yan et al. **International Conference on Information Systems(ICIS 2024, Core A+, *Best Paper Nomination & Best Paper in Track*)**.
 
-- [Identifying Crypto Addresses with Gambling Behaviors: A Graph Neural Network Approach](https://aisel.aisnet.org/pacis2023/210/)[C]. **Jiaxin Wang**, Qian'ang Mao, Jiaqi Yan et al. **Pacific Asia Conference on Information Systems(PACIS 2023)**, Nanchang, China.
+- [Identifying Crypto Addresses with Gambling Behaviors: A Graph Neural Network Approach](https://aisel.aisnet.org/pacis2023/210/)[C]. **Jiaxin Wang**, Qian'ang Mao, Jiaqi Yan et al. **Pacific Asia Conference on Information Systems(PACIS 2023, Core B)**, Nanchang, China.
 
 - [Detecting and Characterizing Abnormal Addresses in the Bitcoin Transaction System: A Social Network Approach](https://2022.cswimworkshop.org/wp-content/uploads/2022/08/CSWIM-2022-Proceedings_18-Aug.pdf)[C]. **Jiaxin Wang**, Jiaqi Yan, Qian'ang Mao. **15th China Summer Workshop on Information Management (CSWIM 2022)**, Ningbo, China, 145-150.
 
@@ -95,7 +95,7 @@ My research mainly focuses on blockchain, spanning the fields of **Information S
 
 # 📝 Working Papers 
 
-- Architectural Patterns for Blockchain-enabled Federated Learning. **Jiaxin Wang**, Dongying Shi, Shanshan Li, Jiaqi Yan, et al. **Under the 2nd Review of Journal of Systems and Software (JCR Q1, CCF-B)**
+- Architectural Patterns for Blockchain-enabled Federated Learning. **Jiaxin Wang**, Dongying Shi, Shanshan Li, Jiaqi Yan, et al. **Under the 2nd Review of Journal of Systems and Software (JCR Q1, CCF-B, Core B)**
 - AI for Web3 Business Ecosystems: A Systematic Literature Review. Li Zhu, **Jiaxin Wang***, Ya Liu, Qian'ang Mao, Jiaqi Yan. **Under the 1st Review of Journal of Technolgy Transfer (JCR Q2, ABS 3, ABDC B)**
 
 
